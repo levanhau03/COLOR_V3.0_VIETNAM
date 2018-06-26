@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="risk_items">
+        <item>Tính phí trái phép</item>
+        <item>Xâm nhập trái phép</item>
+        <item>Quảng cáo độc hại</item>
+        <item>Virus rủi ro cao</item>
+    </string-array>
+</resources>

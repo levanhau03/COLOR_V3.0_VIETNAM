@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bl_empty_history">Không có bản ghi</string>
+    <string name="please_wait">Vui lòng đợi</string>
+    <string name="oppo_doing_remove_blacklist">Đang xóa...</string>
+    <string name="bl_app_name">Danh sách chặn</string>
+    <string name="oppo_yesterday">Hôm qua</string>
+    <string name="bl_menu_recover_to_sms">Khôi phục về SMS</string>
+    <string name="oppo_input_number">Nhập số điện thoại</string>
+    <string name="oppo_add_blacklist">Thêm</string>
+    <string name="oppo_edit">Chỉnh sửa</string>
+    <string name="oppo_blacklist">Danh sách đen mối liên hệ</string>
+    <string name="delete">Xóa</string>
+    <string name="oppo_invalid_phone_number">Số không hợp lệ!</string>
+    <string name="oppo_add_black_number_dialog_title">Nhập một số vào danh sách đen thủ công</string>
+    <string name="oppo_add">Thêm</string>
+    <string name="oppo_add_number_choice_dialog_title">Chọn cách để thêm</string>
+    <string name="bl_cancel">Hủy</string>
+    <string name="bl_menu_cancel_all">Hủy Tất cả</string>
+    <string name="bl_insert_blacklist_exist">Số đã tồn tại</string>
+    <string name="invalid_phone_num">Số %s có định dạng không chính xác.</string>
+    <string name="select_items">%1$d mục được chọn</string>
+    <string name="cancel">Hủy</string>
+    <string name="select_all">Chọn tất cả</string>
+    <string name="unselect_all">Bỏ chọn tất cả</string>
+    <string name="tips">Bạn sẽ không nhận được bất kỳ cuộc gọi hoặc tin nhắn nào từ các liên lạc trong danh sách đen</string>
+    <string name="remove">Xóa</string>
+    <string name="oppo_doing_add_blacklist">Đang thêm số vào Blacklist...</string>
+    <string name="tips_title">Hướng dẫn sử dụng</string>
+    <string name="unknown">không xác định</string>
+</resources>

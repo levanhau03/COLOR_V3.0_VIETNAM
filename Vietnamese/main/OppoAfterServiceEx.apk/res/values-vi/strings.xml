@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dịch vụ sau bán hàng</string>
+    <string name="oppo_after_service_title">Dịch vụ sau bán hàng</string>
+    <string name="afterservice_hotline_title">Đường dây nóng</string>
+    <string name="afterservice_address_title">Địa chỉ</string>
+    <string name="afterservice_email_title">Email</string>
+    <string name="afterservice_website_title">Trang web</string>
+    <string name="help_dialog_title">Trợ giúp</string>
+    <string name="help_dialog_msg">Để giúp bạn sử dụng dịch vụ tốt hơn, mạng dịch vụ hậu mãi cho điện thoại di động của OPPO liên tục được xây dựng và phát triển. Nếu có bất kỳ cập nhật nào, vui lòng truy cập trang web để kiểm tra hoặc bạn cũng có thể tham vấn thông qua đường dây nóng dịch vụ quốc gia thống nhất.</string>
+    <string name="arranty_card">Thẻ bảo hành điện tử</string>
+</resources>

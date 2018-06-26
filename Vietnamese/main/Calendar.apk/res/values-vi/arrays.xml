@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Thông báo</item>
+        <item>Email</item>
+        <item>SMS</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Không nhắc nhở</item>
+        <item>Đúng giờ</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 2 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Không thông báo</item>
+        <item>Đúng giờ</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 2 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Ngôn ngữ mặc định và cài đặt vùng</item>
+        <item>Thứ 7</item>
+        <item>Chủ Nhật</item>
+        <item>Thứ hai</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Quần đảo Marshall</item>
+        <item>Đảo Midway</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Giờ Thái Bình Dương</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Giờ Mountain</item>
+        <item>Trung Mỹ</item>
+        <item>Giờ Trung Tâm</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Giờ Miền Tây</item>
+        <item>Venezuela</item>
+        <item>Giờ Đại Tây Dương</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Greenland</item>
+        <item>Montevideo</item>
+        <item>Trung Đại Tây Dương</item>
+        <item>Azores</item>
+        <item>Quần đảo Cape Verde</item>
+        <item>Casablanca</item>
+        <item>Luân Đôn, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrade</item>
+        <item>Brussels</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Giờ Tây Phi</item>
+        <item>Amman, Jordan</item>
+        <item>Athens, Istanbul</item>
+        <item>Beirut, Lebanon</item>
+        <item>Cairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moscow</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Bắc Kinh</item>
+        <item>Hồng Kông</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Đài Bắc</item>
+        <item>Seoul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>đầu tiên</item>
+        <item>thứ hai</item>
+        <item>thứ ba</item>
+        <item>thứ tư</item>
+        <item>cuối cùng</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Không có phản hồi</item>
+        <item>Có</item>
+        <item>Có thể</item>
+        <item>Không</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Xóa bỏ sự kiện hiện tại</item>
+        <item>Xóa bỏ sự kiện lặp lại hiên tại và tương lai</item>
+        <item>Xóa tất cả các sự kiện của loạt bài này</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Chỉ sự kiện này</item>
+        <item>Tất cả sự kiện trong chuỗi</item>
+    </string-array>
+    <string-array name="chinese_month_number">
+        <item>tháng</item>
+        <item>giêng</item>
+        <item>hai</item>
+        <item>ba</item>
+        <item>tư</item>
+        <item>năm</item>
+        <item>sáu</item>
+        <item>bảy</item>
+        <item>tám</item>
+        <item>chín</item>
+        <item>mười</item>
+        <item>mười một</item>
+        <item>chạp</item>
+    </string-array>
+    <string-array name="chinese_day_number">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="chinese_leap_month">
+        <item>" nhuận"</item>
+        <item>"Tháng "</item>
+    </string-array>
+    <string-array name="solar_term">
+        <item>小寒</item>
+        <item>大寒</item>
+        <item>立春</item>
+        <item>雨水</item>
+        <item>惊蛰</item>
+        <item>春分</item>
+        <item>清明</item>
+        <item>谷雨</item>
+        <item>立夏</item>
+        <item>小满</item>
+        <item>芒种</item>
+        <item>夏至</item>
+        <item>小暑</item>
+        <item>大暑</item>
+        <item>立秋</item>
+        <item>处暑</item>
+        <item>白露</item>
+        <item>秋分</item>
+        <item>寒露</item>
+        <item>霜降</item>
+        <item>立冬</item>
+        <item>小雪</item>
+        <item>大雪</item>
+        <item>冬至</item>
+    </string-array>
+    <string-array name="solar_feast">
+        <item>New Year</item>
+        <item>"Valentine's Day"</item>
+        <item>"Women's Day"</item>
+        <item>International Labor Day</item>
+        <item>"Mother's Day"</item>
+        <item>"Children's Day"</item>
+        <item>"Father's Day"</item>
+        <item>"Teacher's Day"</item>
+        <item>National Day</item>
+        <item>Thanksgiving Day</item>
+        <item>Christmas</item>
+    </string-array>
+    <string-array name="lunar_feast">
+        <item>除夕</item>
+        <item>春节</item>
+        <item>元宵节</item>
+        <item>端午节</item>
+        <item>七夕</item>
+        <item>中元节</item>
+        <item>中秋节</item>
+        <item>重阳节</item>
+        <item>腊八节</item>
+        <item>小年(北)</item>
+        <item>小年(南)</item>
+    </string-array>
+    <string-array name="chinese_other_feast">
+        <item>植树节</item>
+        <item>愚人节</item>
+        <item>青年节</item>
+        <item>护士节</item>
+        <item>建党节</item>
+        <item>建军节</item>
+    </string-array>
+    <string-array name="russia_feast">
+        <item>New Year</item>
+        <item>Christmas</item>
+        <item>"Day    of    Fatherland    Defenders"</item>
+        <item>"International Women's Day"</item>
+        <item>Labor Day</item>
+        <item>Victory Day</item>
+        <item>Russia Day</item>
+        <item>Day of the State Flag of the Russian Federation</item>
+        <item>Unity Day</item>
+        <item>"Valentine's Day"</item>
+        <item>Halloween</item>
+        <item>"April Fool's Day"</item>
+    </string-array>
+    <string-array name="english_feast">
+        <item>"New Year's Day"</item>
+        <item>Groundhog Day</item>
+        <item>"Valentine's Day"</item>
+        <item>Earth Day</item>
+        <item>Flag Day</item>
+        <item>Independence Day</item>
+        <item>Patriot Day</item>
+        <item>Halloween</item>
+        <item>Veterans Day</item>
+        <item>Pearl Harbor Day</item>
+        <item>Christmas Day</item>
+    </string-array>
+    <string-array name="english_feast_rule1">
+        <item>Birthday of Martin Luther King, Jr.</item>
+        <item>"Washington's Birthday"</item>
+        <item>Arbor Day</item>
+        <item>"Mother's Day"</item>
+        <item>Memorial Day</item>
+        <item>"Father's Day"</item>
+        <item>Labor Day</item>
+        <item>Columbus Day</item>
+        <item>Thanksgiving Day</item>
+    </string-array>
+    <string-array name="vietnam_lunar_feast">
+        <item>Tết Nguyên Đán</item>
+        <item>Tết Nguyên tiêu</item>
+        <item>Tết Hàn thực</item>
+        <item>Giỗ Tổ Hùng Vương</item>
+        <item>Tết Dân tộc Khmer</item>
+        <item>Lễ Phật Đản</item>
+        <item>Tết Đoan ngọ</item>
+        <item>Vu Lan</item>
+        <item>Lễ hội Katê</item>
+        <item>Tết Trung thu</item>
+        <item>Tết Trùng cửu</item>
+        <item>Ông Táo chầu trời</item>
+    </string-array>
+    <string-array name="vietnam_solar_feast">
+        <item>Tết Dương lịch</item>
+        <item>Thành lập Đảng Cộng sản Việt Nam</item>
+        <item>Ngày Valentine</item>
+        <item>Quốc tế Phụ nữ</item>
+        <item>Cá tháng tư</item>
+        <item>Ngày giải phóng miền Nam</item>
+        <item>Ngày Quốc tế Lao động</item>
+        <item>Ngày sinh của Chủ tịch Hồ Chí Minh</item>
+        <item>Quốc tế Thiếu nhi</item>
+        <item>Ngày thương binh liệt sĩ</item>
+        <item>Ngày Cách mạng tháng Tám thành công</item>
+        <item>Ngày Quốc Khánh</item>
+        <item>Ngày Giải phóng Thủ đô (Hà Nội)</item>
+        <item>Ngày Doanh nhân Việt Nam</item>
+        <item>Ngày thành lập Hội Phụ nữ Việt Nam</item>
+        <item>Ngày Nhà giáo Việt Nam</item>
+        <item>Ngày thành lập Quân đội Nhân dân Việt Nam</item>
+        <item>Lễ Giáng sinh</item>
+    </string-array>
+    <string-array name="thailand_solar_feast">
+        <item>Năm mới</item>
+        <item>Ngày Nhà giáo</item>
+        <item>Ngày thành lập Đế chế La Mã</item>
+        <item>Lễ hội Té nước - Songkran</item>
+        <item>Lễ hội Té nước - Songkran</item>
+        <item>Lễ hội Té nước - Songkran</item>
+        <item>Ngày Lao động</item>
+        <item>Ngày Vua lên Ngôi</item>
+        <item>Ngày của Mẹ</item>
+        <item>Ngày mất của Vua Chulalongkorn</item>
+        <item>Ngày của Cha</item>
+        <item>Ngày Hiến pháp</item>
+    </string-array>
+    <string-array name="other_feast">
+        <item>Ngày Thiếu nhi</item>
+    </string-array>
+    <string-array name="thailand_thai_feast">
+        <item>Makabucha Day</item>
+        <item>Visakabucha Day</item>
+        <item>Asalabucha Day</item>
+        <item>Buddhist Lent Day</item>
+        <item>End of Buddhist Lent Day</item>
+        <item>Loi Krathong Day</item>
+    </string-array>
+    <string-array name="western_feast">
+        <item>Ngày Giáng Sinh</item>
+        <item>Ngày Valentine</item>
+        <item>Ngày Halloween</item>
+        <item>Cá tháng tư</item>
+    </string-array>
+    <string-array name="chinese_feast">
+        <item>Tết Nguyên Đán</item>
+        <item>Tết Trung thu</item>
+        <item>Tết Thanh minh</item>
+    </string-array>
+    <string-array name="thai_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="thai_month">
+        <item>tháng 1</item>
+        <item>tháng 2</item>
+        <item>tháng 3</item>
+        <item>tháng 4</item>
+        <item>tháng 5</item>
+        <item>tháng 6</item>
+        <item>tháng 7</item>
+        <item>tháng 8</item>
+        <item>thángg 9</item>
+        <item>tháng 10</item>
+        <item>tháng 11</item>
+        <item>tháng 12</item>
+    </string-array>
+    <string-array name="up_down_month">
+        <item>Thượng tuần</item>
+        <item>Hạ tuần</item>
+    </string-array>
+    <string-array name="thai_leap">
+        <item>" "</item>
+    </string-array>
+    <string-array name="indonesia_solar_feast">
+        <item>Tết Dương lịch</item>
+        <item>Indonesian Independence Day</item>
+        <item>Lễ Giáng sinh</item>
+    </string-array>
+    <string-array name="indonesia_lumar_feast">
+        <item>Tết Nguyên Đán</item>
+        <item>Waisak Day</item>
+    </string-array>
+    <string-array name="indonesia_islam_feast">
+        <item>Birth of the Prophet Mohammad</item>
+        <item>Ascension of the Prophet Mohammad</item>
+        <item>Hari Raya Idul Fitri</item>
+        <item>Idul Adha</item>
+        <item>Islamic New Year</item>
+    </string-array>
+    <string-array name="indonesia_other_feast">
+        <item>Friday</item>
+        <item>Ascension of Christ</item>
+    </string-array>
+    <string-array name="crazy_tickets_days">
+        <item>抢廿五</item>
+        <item>抢廿六</item>
+        <item>抢廿七</item>
+        <item>抢廿八</item>
+        <item>抢廿九</item>
+        <item>抢除夕</item>
+        <item>抢初五</item>
+        <item>抢初六</item>
+        <item>抢初七</item>
+        <item>抢初八</item>
+    </string-array>
+    <string-array name="calendar_month_header_array">
+        <item>CN</item>
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+    </string-array>
+    <string-array name="receive_dialog_content">
+        <item>Nhập lịch trình</item>
+        <item>Lưu vào tệp</item>
+    </string-array>
+    <string-array name="week_days">
+        <item>Chủ Nhật</item>
+        <item>Thứ hai</item>
+        <item>Thứ ba</item>
+        <item>Thứ tư</item>
+        <item>Thứ năm</item>
+        <item>Thứ sáu</item>
+        <item>Thứ bảy</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Đang chạy chỉ muộn vài phút.</item>
+        <item>Sẽ ở đó sau khoảng 10 phút.</item>
+        <item>Hãy tiến hành và bắt đầu mà không có tôi.</item>
+        <item>Rất tiếc, tôi không thu xếp được. Chúng ta phải lên lịch lại.</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi im lặng</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Bận</item>
+        <item>Rỗi</item>
+        <item>Dự định</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Mặc định</item>
+        <item>Riêng tư</item>
+        <item>Công khai</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Tháng</item>
+        <item>Tuần</item>
+        <item>Ngày</item>
+    </string-array>
+    <string-array name="prefs_vibrate_values">
+        <item>Chỉ chuông</item>
+        <item>Chỉ rung</item>
+        <item>Rung và chuông</item>
+    </string-array>
+</resources>

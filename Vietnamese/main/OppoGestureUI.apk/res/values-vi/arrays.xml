@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gesture_description_tag">
+        <item>Chạm hai lần</item>
+        <item>Mũi tên xuống</item>
+        <item>Vẽ ∧</item>
+        <item>Mũi tên phải</item>
+        <item>Mũi tên trái</item>
+        <item>Hình tròn</item>
+        <item>Vạch dọc kép</item>
+        <item>Trượt sang phải</item>
+        <item>Trượt sang trái</item>
+        <item>Trượt xuống</item>
+        <item>Trượt lên</item>
+        <item>Vẽ chữ M</item>
+        <item>Vẽ chữ W</item>
+    </string-array>
+</resources>

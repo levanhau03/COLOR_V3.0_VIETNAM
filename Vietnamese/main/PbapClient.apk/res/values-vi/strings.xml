@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nhập qua Bluetooth</string>
+    <string name="transporting">Đang truyền danh bạ...</string>
+    <string name="importing">Đang nhập danh bạ...</string>
+    <string name="connecting">Đang kết nối...</string>
+    <string name="connect_failed">Nhập không thành công</string>
+    <string name="transport_success">Chúc mừng</string>
+    <string name="linkman">Danh bạ (%1$d/%2$d)</string>
+    <string name="ok">OK</string>
+    <string name="finish">Xong</string>
+    <string name="cancel">Hủy</string>
+    <string name="retry">Thử lại</string>
+    <string name="bluetooth_preference_title">Nhập danh bạ qua Bluetooth</string>
+    <string name="bluetooth_preference_summary">Nhập danh bạ từ các điện thoại khác qua Bluetooth</string>
+    <string name="transport_my_info">Truyền hồ sơ của tôi</string>
+    <string name="ensoure_out">Thoát?</string>
+    <string name="transport_success_notice">Đã biết</string>
+    <string name="connect_failed_reboot">Bạn phải khởi động lại %1$s. Vui lòng thử lại sau</string>
+    <string name="transport_iphone_pb">Nhập danh bạ qua Bluetooth</string>
+    <string name="choose_phone">Chọn điện thoại để nhập</string>
+    <string name="scanning">Đang quét...</string>
+    <string name="connect_failed_text">Chạm vào Tiếp tục để thử lại hoặc chạm vào Hủy để thoát.</string>
+    <string name="pre_step">Quay lại</string>
+    <string name="next_step">Tiếp theo</string>
+    <string name="rescan">Quét</string>
+    <string name="transport_success_notice_text">Đã nhập thành công %2$d liên lạc từ \"%1$s\" vào điện thoại di động của bạn.</string>
+    <string name="first_page_notice">"1. Chạm vào phím Home > Mở menu Cài đặt
+2. Chọn và bật Bluetooth"</string>
+    <string name="first_page_notice_middle">"(Nếu bạn muốn xuất danh bạ từ iPhone, hãy ở lại giao diện cài đặt Bluetooth)
+"</string>
+    <string name="first_page_notice_2">Sau khi bật Bluetooth, chạm vào Tiếp theo.</string>
+    <string name="check_phone_type">Đang kiểm tra kiểu máy điện thoại</string>
+    <string name="sync_phone_book">Đang đồng bộ hóa danh bạ... Vui lòng chờ.</string>
+    <string name="authorization">Không kép đôi được hoặc có được quyền truy cập Danh bạ. Vui lòng thử lại hoặc hủy để thoát</string>
+    <string name="pbap_size_zero">%1$sDanh sách liên lạc hiện đang trống. Không có liên lạc để nhập.</string>
+    <string name="bluetooth_no_devices_found">Ko tìm thấy th.bị Bluetooth lân cận nào.</string>
+    <string name="oppo_background_import">Chạy dưới nền</string>
+    <string name="oppo_taost_importing_is_running">Đang nhập dữ liệu!</string>
+    <string name="notify_import">Nhập liên hệ</string>
+    <string name="notify_transport">Truyền danh bạ</string>
+    <string name="importing_contact_list_title">Đang nhập danh bạ</string>
+    <string name="transporting_contact_list_title">Đang truyền danh bạ</string>
+    <string name="percentage">%s%%</string>
+    <string name="notify_import_finished">Đã nhập xong</string>
+    <string name="notify_import_canceled">Nhập đã bị hủy</string>
+    <string name="fail_reason_unknown">Lỗi không xác định.</string>
+</resources>

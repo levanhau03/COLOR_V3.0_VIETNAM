@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý thông báo</string>
+    <string name="location_notification_status">Thanh trạng thái, thanh thông báo</string>
+    <string name="location_other">Thông báo khác</string>
+    <string name="location_notification">Thanh thông báo</string>
+    <string name="location_lockscreen">Khóa màn hình</string>
+    <string name="location_badge">Phù hiệu</string>
+    <string name="location_banner">Biểu ngữ</string>
+    <string name="location_dot">", "</string>
+    <string name="location_null">Không</string>
+    <string name="location_lock_all">Thanh trạng thái, thanh thông báo, màn hình khóa</string>
+    <string name="location_lock_notification">Thanh thông báo, màn hình khóa</string>
+    <string name="notification_switch">Cho phép thông báo</string>
+    <string name="status_switch">Hiển thị trên thanh trạng thái</string>
+    <string name="lock_switch">Hiển thị trên màn hình khóa</string>
+    <string name="badge_switch">Hiển thị chỉ số dưới trên biểu tượng Màn hình chính</string>
+    <string name="lock_info">Công tắc chính của thông báo màn hình khóa đã bị tắt; vui lòng đi đến Trung tâm thông báo - Cài đặt để bật lên.</string>
+    <string name="effict_show">Hiển thị hiệu suất</string>
+    <string name="effict_setting_location">"Bạn có thể làm việc này trong Cài đặt- Bảo mật và riêng tư - Trung tâm thông báo
+\u0009\u0009\u0009\u0009\u0009\u0009\u0009Quản lý màn hình thông báo ứng dụng"</string>
+    <string name="notification_setting_activity_name">Cài đặt</string>
+    <string name="setting_manual_update">Thủ công cập nhật thư viện \"Thông báo thông minh\"</string>
+    <string name="setting_auto_update">Tự động cập nhật thư viện \"Thông báo thông minh\"</string>
+    <string name="setting_version">Phiên bản hiện tại:</string>
+    <string name="date_update_latest_version">Đã cập nhật dữ liệu lên phiên bản mới nhất</string>
+    <string name="is_loading">Đang tải</string>
+    <string name="keyguard_notice_title">Hiển thị trên màn hình khóa</string>
+    <string name="keyguard_notice_summary">Sau khi đã tắt, các thông báo ứng dụng sẽ không được hiển thị trên màn hình khóa</string>
+    <string name="notice_switch_introduce">Sau khi đã tắt, các thông báo từ ứng dụng này sẽ không được hiển thị trên thanh thông báo, thanh trạng thái hoặc màn hình khóa.</string>
+    <string name="notice_introduce">Có thể quản lý quyền thông báo cho mọi ứng dụng bằng chức năng Quản lý thông báo. Bạn cũng có thể tùy chỉnh hiển thị thông báo cho mỗi ứng dụng.</string>
+    <string name="notice_wake_up_title">Bật màn hình cho thông báo màn hình khóa</string>
+    <string name="notice_wake_up_text">Nếu bạn tắt chức năng này, mọi thông báo màn hình khóa trừ cuộc gọi và tin nhắn SMS đến sẽ không sáng lên trên màn hình.</string>
+    <string name="priority_title_txt">Cài đặt Thời gian yên tĩnh</string>
+    <string name="priority_switch">Thông báo ưu tiên</string>
+    <string name="priority_switch_introduce">Cho phép đổ chuông hoặc rung cho thông báo ở chế độ Thời gian yên tĩnh</string>
+    <string name="banner_switch">Hiển thị phía trên cùng của màn hình</string>
+    <string name="banner_notice_summary">Sau khi mở khóa, biểu ngữ sẽ bật lên và sau đó biết mất.</string>
+    <string name="sound_switch">Âm thanh thông báo và rung</string>
+    <string name="light_switch">Đèn thông báo nhấp nháy</string>
+</resources>

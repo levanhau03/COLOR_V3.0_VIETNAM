@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dịch vụ cử chỉ_chuyển động</string>
+    <string name="oppo_screen_drag_longshot_hint">Chế độ một tay sẽ bị tắt trong chế độ ảnh chụp màn hình mở rộng</string>
+    <string name="oppo_screen_shot_up_text">Trượt lên 1/3 màn hình</string>
+    <string name="oppo_screen_shot_down_text">Trượt xuống 1/3 màn hình</string>
+    <string name="oppo_volume_ringtone">Nhạc chuông</string>
+    <string name="oppo_volume_system">Âm hệ thống</string>
+    <string name="oppo_volume_media">Â.lượng ph.tiện</string>
+    <string name="oppo_volume_call">Âm lượng cuộc gọi</string>
+    <string name="oppo_screen_drag_tips_text_down">(Chạm vào nút Home hoặc Quay lại để hoát hiệu ứng di chuyển)</string>
+    <string name="oppo_screen_drag_tips_text">Giữ màn hình và kéo xuống để thực hiện thao tác di chuyển</string>
+</resources>

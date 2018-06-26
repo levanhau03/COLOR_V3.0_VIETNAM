@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="load_fail">Kết nối mạng và thử lại</string>
+</resources>

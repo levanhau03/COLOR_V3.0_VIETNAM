@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Ứng dụng lõi Android</string>
+    <string name="app_label">Bộ nhớ Danh bạ</string>
+    <string name="provider_label">Danh bạ</string>
+    <string name="upgrade_msg">Đang nâng cấp cơ sở dữ liệu danh bạ.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Nâng cấp danh bạ cần thêm bộ nhớ.</string>
+    <string name="upgrade_out_of_memory_notification_title">Đang nâng cấp dung lượng cho danh bạ</string>
+    <string name="upgrade_out_of_memory_notification_text">Chạm để hoàn tất nâng cấp.</string>
+    <string name="default_directory">Danh bạ</string>
+    <string name="local_invisible_directory">Khác</string>
+    <string name="read_write_all_voicemail_label">Truy cập tất cả các thư thoại</string>
+    <string name="read_write_all_voicemail_description">Cho phép ứng dụng lưu trữ và truy xuất tất cả thư thoại mà thiết bị này có thể truy cập.</string>
+    <string name="voicemail_from_column">"Thư thoại từ "</string>
+    <string name="debug_dump_title">Sao chép cơ sở dữ liệu danh bạ</string>
+    <string name="debug_dump_database_message">Bạn sẽ tiến hành thao tác như sau:1) Văn bản sao chép tất cả cơ sở dữ liệu bao gồm danh bạ và tắt cả nhật ký cuộc gọi trong bộ nhớ trong điện thoại;2)Gửi văn bản này qua email.Xin xóa văn bản này sau sao chép xong hoặc gửi email thành công.</string>
+    <string name="debug_dump_delete_button">Xóa ngay bây giờ</string>
+    <string name="debug_dump_start_button">Đi</string>
+    <string name="debug_dump_email_sender_picker">Chọn chương trình để gửi tệp của bạn</string>
+    <string name="debug_dump_email_subject">Kèm theo cơ sở dữ liệu danh bạ</string>
+    <string name="debug_dump_email_body">Đính kèm là cơ sở dữ liệu của tôi ,trong đó bao gồm tất cả thông tin danh bạ ,xin cẩn thận xử ly</string>
+    <string name="btn_export_db">Thông tin gỡ lỗi liên lạc</string>
+    <string name="btn_export_success">Hoạt động thành công</string>
+    <string name="btn_export_failed">Thao tác không thành công</string>
+    <string name="export_db_check_failed">Quyền bị từ chối</string>
+</resources>

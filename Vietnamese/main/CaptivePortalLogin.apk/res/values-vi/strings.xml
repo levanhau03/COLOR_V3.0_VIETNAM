@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xác thực đăng nhập mạng</string>
+    <string name="action_use_network">Sử dụng mạng này</string>
+    <string name="action_do_not_use_network">Không sử dụng mạng này</string>
+    <string name="action_bar_label">Đăng nhập mạng</string>
+</resources>

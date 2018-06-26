@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Công nghệ âm thanh sống động</string>
+    <string name="dirac_name">Công nghệ âm thanh sống động</string>
+    <string name="dirac_mode_headset">Chế độ tai nghe</string>
+    <string name="dirac_mode_headset_choice">Chọn kiểu tai nghe</string>
+    <string name="dirac_mode_headset_normal">Thông thường</string>
+    <string name="dirac_mode_headset_inear">Trong tai</string>
+    <string name="dirac_mode_headset_ear_muffle">Trùm tai</string>
+    <string name="dirac_mode_Speaker">Chế độ loa</string>
+    <string name="dirac_headset_prompt">Bộ chỉnh âm (chỉ hiệu quả khi nghe qua tai nghe)</string>
+    <string name="dirac_headset_prompt_toast">Chỉ hiệu quả khi tai nghe được kết nối</string>
+    <string name="dirac_headset_video">Bộ chỉnh âm (Chỉ hiệu quả ở chế độ Âm thanh HD thực)</string>
+    <string name="dts_equalizer">Bộ hiệu chỉnh</string>
+    <string name="eqauliser_status_off">Tắt</string>
+    <string name="eqauliser_status_on">Mở</string>
+    <string name="dts_bass">Âm trầm</string>
+    <string name="dts_middle">Giọng nam trung</string>
+    <string name="dts_treble">Âm cao</string>
+</resources>

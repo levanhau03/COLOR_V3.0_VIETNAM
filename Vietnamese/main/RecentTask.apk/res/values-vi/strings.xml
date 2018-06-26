@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gần đây</string>
+    <string name="recents_gesture_up">Trượt lên để thoát ứng dụng</string>
+    <string name="recents_gesture_down">Trượt xuống để khóa ứng dụng</string>
+    <string name="screen_pinning_title">Màn hình đã khóa</string>
+    <string name="screen_pinning_description">Điện thoại đã bị hạn chế chỉ hiển thị giao diện có liên quan đến \"%1$s\". Để xóa bỏ hạn chế và quay lại chế độ bình thường, vui lòng chạm và giữ phím tắt đa nhiệm.</string>
+    <string name="screen_pinning_positive">Tôi biết</string>
+    <string name="warning_lock_protected_task">Đã mã hóa ứng dụng. Để ngăn chặn rò rỉ bảo mật, không thể khắc phục màn hình.</string>
+    <string name="memory_can_use">%1$s Còn trống</string>
+    <string name="encypt">Đã mã hóa ứng dụng</string>
+    <string name="accessibility_recents_item_will_be_dismissed">Xóa %s.</string>
+    <string name="accessibility_recents_item_dismissed">%s đã bị loại bỏ.</string>
+    <string name="accessibility_desc_recent_apps">Tổng quan.</string>
+    <string name="recents_empty_message">Không có tác vụ gần đây</string>
+    <string name="recents_lock_to_app_button_label">Đính trên màn hình</string>
+    <string name="recents_launch_error_message">Không thể khởi động %s.</string>
+</resources>

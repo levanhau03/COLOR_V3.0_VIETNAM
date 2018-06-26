@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Bạn có chắc muốn xóa các mục đã chọn không?</item>
+        <item quantity="one">Bạn có chắc muốn xóa các mục đã chọn không?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d mục được chọn</item>
+        <item quantity="zero">%1$d không chọn mục nào</item>
+        <item quantity="one">%1$d mục được chọn</item>
+    </plurals>
+    <plurals name="number_of_items_in_slot">
+        <item quantity="other">Tổng số %1$d mục</item>
+        <item quantity="one">Tổng số mục</item>
+    </plurals>
+    <plurals name="number_of_folders_in_slot">
+        <item quantity="other">%1$d thư mục</item>
+        <item quantity="one">1 thư mục</item>
+    </plurals>
+    <plurals name="albumset_count_string">
+        <item quantity="other">%1$d ảnh</item>
+        <item quantity="one">1 ảnh</item>
+    </plurals>
+</resources>

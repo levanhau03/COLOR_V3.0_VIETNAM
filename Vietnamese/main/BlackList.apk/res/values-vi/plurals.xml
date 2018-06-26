@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bl_title_block_sms">
+        <item quantity="other">Gần đây đã chặn %d tin nhắn</item>
+        <item quantity="one">Gần đây đã chặn %d tin nhắn</item>
+    </plurals>
+    <plurals name="bl_title_block_sms_append">
+        <item quantity="other">, %d tin nhắn</item>
+        <item quantity="one">, %d tin nhắn</item>
+    </plurals>
+    <plurals name="bl_title_block_phone">
+        <item quantity="other">Gần đây đã chặn %d cuộc gọi</item>
+        <item quantity="one">Gần đây đã chặn %d cuộc gọi</item>
+    </plurals>
+</resources>

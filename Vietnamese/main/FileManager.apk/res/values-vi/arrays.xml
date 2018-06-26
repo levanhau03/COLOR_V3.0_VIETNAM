@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_text">
+        <item>Âm thanh</item>
+        <item>Video</item>
+        <item>Ảnh</item>
+        <item>Tài liệu</item>
+        <item>APK</item>
+        <item>ZIP</item>
+        <item>Bluetooth</item>
+        <item>QQ</item>
+        <item>WeChat</item>
+    </string-array>
+    <string-array name="category_activity_title">
+        <item>Âm thanh</item>
+        <item>Video</item>
+        <item>Ảnh</item>
+        <item>Tài liệu</item>
+        <item>APK</item>
+        <item>ZIP</item>
+        <item>Bluetooth</item>
+        <item>QQ</item>
+        <item>WeChat</item>
+    </string-array>
+    <string-array name="sim_picker_contents">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+        <item>Cài đặt đồng thời</item>
+    </string-array>
+    <string-array name="mark_action_more_cmcc">
+        <item>@string/menu_file_list_compress</item>
+        <item>@string/menu_file_list_rename</item>
+        <item>@string/menu_file_list_detail</item>
+    </string-array>
+    <string-array name="sort_dialog_items">
+        <item>Tên</item>
+        <item>Dung lượng</item>
+        <item>Kiểu</item>
+        <item>Thời gian</item>
+    </string-array>
+    <string-array name="multi_nav_text">
+        <item>Chủng loại</item>
+        <item>Điện thoại</item>
+        <item>Thẻ SD</item>
+        <item>Network disk</item>
+    </string-array>
+    <string-array name="single_nav_text">
+        <item>Chủng loại</item>
+        <item>Điện thoại</item>
+        <item>Network disk</item>
+    </string-array>
+    <string-array name="filebrowser_shortcutbar_title1">
+        <item>Trở lại</item>
+        <item>Thư mục mới</item>
+        <item>Bảng nhớ tạm</item>
+        <item>Đánh dấu nhiều</item>
+        <item>Khác</item>
+    </string-array>
+    <string-array name="filebrowser_shortcutbar_title2">
+        <item>Tìm kiếm</item>
+        <item>Cài đặt</item>
+    </string-array>
+    <string-array name="multi_nav_text_cmcc">
+        <item>Chủng loại</item>
+        <item>Điện thoại</item>
+        <item>Thẻ SD</item>
+    </string-array>
+    <string-array name="tab_text">
+        <item>Chủng loại</item>
+        <item>Điện thoại</item>
+        <item>Netdisk</item>
+    </string-array>
+    <string-array name="single_nav_text_cmcc">
+        <item>Chủng loại</item>
+        <item>Lưu trữ</item>
+    </string-array>
+    <string-array name="netdisk_default_folder_names">
+        <item>Video của tôi</item>
+        <item>Tài liệu của tôi</item>
+        <item>Hình ảnh của tôi</item>
+        <item>Âm nhạc của tôi</item>
+    </string-array>
+    <string-array name="cleanup_period">
+        <item>Hàng ngày</item>
+        <item>Hàng tuần</item>
+        <item>Hàng tháng</item>
+        <item>3 tháng một lần</item>
+    </string-array>
+    <string-array name="group_item_names">
+        <item>Tập tin tạm thời hệ thống</item>
+        <item>Tập tin bộ nhớ đệm ảnh thu nhỏ</item>
+        <item>Bộ nhớ đệm ứng dụng</item>
+        <item>Thư mục rỗng</item>
+        <item>Dư lượng gỡ cài đặt ứng dụng</item>
+        <item>Tập tin lớn</item>
+        <item>Sao chép gói cài đặt</item>
+    </string-array>
+    <string-array name="tab_text_cmcc">
+        <item>Bộ nhớ điện thoại</item>
+    </string-array>
+    <string-array name="image_text">
+        <item>Từ máy ảnh</item>
+        <item>Ảnh khác</item>
+    </string-array>
+    <string-array name="select_music_path_DefualtsItem">
+        <item>Hệ thống</item>
+        <item>Tùy chỉnh</item>
+        <item>Khôi phục chuông mặc định</item>
+    </string-array>
+    <string-array name="select_music_path_noDefualtItem">
+        <item>Hệ thống</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="path_picker">
+        <item>điện thoại</item>
+        <item>thẻ SD</item>
+    </string-array>
+    <string-array name="encryptable_default_folder_names">
+        <item>Bản ghi âm của tôi</item>
+        <item>Video của tôi</item>
+        <item>Thư viện của tôi</item>
+        <item>Tải xuống của tôi</item>
+        <item>Âm nhạc của tôi</item>
+        <item>Hình ảnh của tôi</item>
+    </string-array>
+    <string-array name="select_music_path_more_DefualtsItem">
+        <item>Hệ thống</item>
+        <item>Tùy chỉnh</item>
+        <item>Khôi phục chuông mặc định</item>
+        <item>Khác</item>
+    </string-array>
+    <string-array name="select_music_path_more_noDefualtItem">
+        <item>Hệ thống</item>
+        <item>Tùy chỉnh</item>
+        <item>Khác</item>
+    </string-array>
+    <string-array name="select_search_path">
+        <item>Lưu trữ của điện thoại và thẻ SD</item>
+        <item>Lưu trữ của điện thoại</item>
+        <item>Thẻ SD</item>
+        <item>Thư mục hiện tại</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="single_select_search_path">
+        <item>Lưu trữ của điện thoại</item>
+        <item>Thư mục hiện tại</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+</resources>

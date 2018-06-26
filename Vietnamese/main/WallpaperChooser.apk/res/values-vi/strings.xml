@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_confirm">Xác nhận xóa?</string>
+    <string name="confirm">Xóa</string>
+    <string name="livepaper_using">Đang dùng hình nền động này，không thể xóa!</string>
+    <string name="cancel">Hủy</string>
+    <string name="apply">Áp dụng</string>
+    <string name="live_wallpaper_loading">Đang tải hình nền động...</string>
+    <string name="livepaper">Hình nền động</string>
+    <string name="sign_use">Đang sử dụng</string>
+    <string name="live_wallpaper_preview_title">Xem trước hình nền động</string>
+    <string name="pref_wallpaper_text">Chọn hình nền</string>
+    <string name="wallpaper_and_lockscreen_settings_title">Hình nền</string>
+    <string name="color_wallpaper_select_title_wallpaper">Hình nền tĩnh</string>
+    <string name="color_wallpaper_select_title_photos">Thư viện</string>
+    <string name="activity_not_found">Ứng dụng chưa được cài đặt.</string>
+    <string name="pictorial_setting_title">Tạp chí màn hình khóa</string>
+    <string name="wallpaper_and_lockscreen_settings_title_with_pictorial">Tạp chí về hình nền và màn hình khóa</string>
+    <string name="unsupport_livewallpaper_hint">Hình nền động sẽ gây tiêu tốn pin cao và làm chậm hiệu suất hệ thống. Kiểu máy này không hỗ trợ hình nền động.</string>
+    <string name="oppo_keyguard_magazine_title_exp">Tạp chí màn hình khóa</string>
+    <string name="oppo_keyguard_magazine_summary_exp">Chuyển sang hình nền mới mỗi khi bật màn hình</string>
+    <string name="delete">Xóa</string>
+    <string name="config">Cài đặt</string>
+</resources>

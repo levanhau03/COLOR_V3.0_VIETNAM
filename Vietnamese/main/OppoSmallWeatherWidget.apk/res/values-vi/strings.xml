@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Đồng hồ (widget)</string>
+    <string name="appwidget_name">Đồng hồ</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="monday">T.2.</string>
+    <string name="tuesday">T.3.</string>
+    <string name="wednesday">T.4.</string>
+    <string name="thursday">T.5.</string>
+    <string name="friday">T.6.</string>
+    <string name="saturday">T.7.</string>
+    <string name="sunday">CN.</string>
+    <string name="colon">:</string>
+</resources>

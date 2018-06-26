@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thẻ bảo hành điện tử</string>
+    <string name="notifition">Điện thoại đăng ký thành công</string>
+    <string name="notifitionTitle">Kích hoạt thành công</string>
+    <string name="notifitionMessage">Điện thoại đăng ký thành công</string>
+    <string name="ok">OK</string>
+    <string name="activationSucessInform">Thẻ bảo hành điện tử có giá trị tương đương với thẻ bảo hành giấy. Bạn có thể nhận được dịch vụ bảo hành từ một chi nhánh dịch vụ khách hàng mà không phải xuất trình thẻ bảo hành giấy hoặc bằng chứng mua hàng (chính sách này có thể không được hỗ trợ tại một số quốc gia và vùng, do đó vui lòng kiểm tra với trung tâm dịch vụ sau bán hàng tại địa phương trước). Nếu có bất kỳ điều gì không rõ ràng về thời gian đăng ký của thẻ bảo hành điện tử của bạn, thời gian được ghi trên thẻ bảo hành giấy và bằng chứng mua hàng của bạn sẽ được ưu tiên sử dụng.</string>
+    <string name="activationService">Dịch vụ kích hoạt điện thoại</string>
+    <string name="open">khởi chạy</string>
+    <string name="close">Dừng</string>
+    <string name="has">Đã đăng ký</string>
+    <string name="sure">Đăng ký</string>
+    <string name="not">Hủy</string>
+    <string name="registMessage">Vui lòng đảm bảo rằng điện thoại của bạn có thể truy cập Internet hoặc thẻ SIM có thể được sử dụng bình thường.</string>
+    <string name="registPhoneMessage">Xin chào! Vui lòng nhập số điện thoại hợp lệ để đăng ký.</string>
+    <string name="registTitle">Nhắc nhở đăng ký</string>
+    <string name="phoneNum">Số điện thoại:</string>
+    <string name="userName">Tên</string>
+    <string name="hint_name">Vui lòng nhập tên</string>
+    <string name="hint_phoneNum">Vui lòng nhập số điện thoại</string>
+    <string name="activation">Đăng ký ngay</string>
+    <string name="activationSucess">Điện thoại của bạn đã đăng ký thành công, một lần nữa cám ơn bạn ủng hộ và tin tưởng OPPO!</string>
+    <string name="regist_sucess_string">Đăng ký bảo hành điện tử thành công</string>
+    <string name="send_register_string">Đã gửi yêu cầu đăng ký, vui lòng đợi</string>
+    <string name="activationInform">Chào mừng bạn đến với điện thoại thông minh OPPO. Vui lòng hoàn thành kích hoạt và đăng ký điện thoại OPPO. Sau khi đăng ký thành công, bạn có thể nhận được dịch vụ bảo hành từ một chi nhánh dịch vụ khách hàng mà không phải xuất trình thẻ bảo hành giấy hoặc bằng chứng mua hàng (chính sách này có thể không được hỗ trợ tại một số quốc gia và vùng, do đó vui lòng kiểm tra với trung tâm dịch vụ sau bán hàng tại địa phương trước). Nếu có bất kỳ điều gì không rõ ràng về thời gian đăng ký của thẻ bảo hành điện tử của bạn, thời gian được ghi trên thẻ bảo hành giấy và bằng chứng mua hàng của bạn sẽ được ưu tiên sử dụng. Quá trình đăng ký chỉ có thể diễn ra khi điện thoại của bạn đã được kết nối với Internet, do đó hãy yên tâm khi đăng ký.</string>
+    <string name="activationSucessInform_oneplus">E-warranty card functions the same as paper warranty card, you can enjoy our customer service in ONEPLUS Authorized Service Centers all over China without having to carry the paper warranty card.</string>
+    <string name="activationSucess_oneplus">Your mobile phone is registered, thank you again for your support and trust of ONEPLUS!</string>
+    <string name="activationInform_oneplus">"Dear user, welcome using ONEPLUS smartphone, you are going to register for ONEPLUS mobile phone's e-warranty card service. Once registered e-warranty card functions the same as paper warranty card, you can enjoy our customer service in ONEPLUS Authorized Service Centers all over China without having to carry the paper warranty card. During registeration your carrier may charge for basic SMS or data fees."</string>
+</resources>

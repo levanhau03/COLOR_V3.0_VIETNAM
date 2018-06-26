@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gỡ lỗi USB</string>
+    <string name="usb_no_ask_name">Không hỏi lại</string>
+    <string name="usb_settings">Cài đặt USB</string>
+    <string name="usb_charge">Chỉ sạc pin</string>
+    <string name="usb_charge_detail">Sạc điện thoại qua cổng USB</string>
+    <string name="usb_storage">Thiết bị lưu trữ</string>
+    <string name="usb_storage_detail">Làm điện thoại của bạn như thiết bị lưu trữ</string>
+    <string name="usb_mtp">Thiết bị Media (MTP)</string>
+    <string name="usb_mtp_detail">Cho phép bạn chuyển các tệp đa phương tiện trên PC</string>
+    <string name="usb_selection_processing">Đang xử lý,vui lòng đợi...</string>
+    <string name="device_reboot">Khởi động lại</string>
+    <string name="cancel">Hủy</string>
+    <string name="detect_new_SD_title">Đã lắp thẻ SD</string>
+    <string name="detect_null_title">Không phát hiện thẻ SD nào</string>
+    <string name="detect_new_SD_description">Phát hiện thấy thẻ SD, khởi động lại?</string>
+    <string name="detect_null_description">Chưa tìm thấy thẻ SD, khởi động lại?</string>
+    <string name="usb_connectted_string">Đã kết nối USB</string>
+    <string name="file_transmit_string">Tệp</string>
+    <string name="image_transmit_string">Truyền ảnh</string>
+    <string name="usb_help_string">Trợ giúp</string>
+    <string name="usb_select_file_transmit">Bạn có thể truyền tệp bằng PC</string>
+    <string name="usb_select_image_transmit">Bạn có thể truyền ảnh bằng PC</string>
+    <string name="adb_enable_notification_title">Gỡ lỗi USB đã được bật</string>
+    <string name="adb_enable_notification_message">Chạm để thiết lập \"Tắt gỡ lỗi USB\"</string>
+    <string name="adb_enable_hint_title">Thẻ SIM đã được lắp vào và chức năng truyền dữ liệu qua USB đã bật.</string>
+    <string name="adb_disenable_notification_title">Gỡ lỗi USB đã bị tắt</string>
+    <string name="adb_disenable_notification_message">Nhấn để bật gỡ lỗi USB</string>
+    <string name="adb_status_no_reminder">Đừng hỏi</string>
+    <string name="usb_connection_description">Hướng dẫn truyền tệp</string>
+    <string name="device_xp">Windows XP và các phiên bản trước</string>
+    <string name="device_mac">MAC OS</string>
+    <string name="xp_help_title">Cài đặt tự động</string>
+    <string name="xp_help_message">Sau khi được kết nối qua USB, điện thoại sẽ tự động dò tìm máy tính. Vui lòng đợi từ 30 đến 90 giây. Nếu cài đặt tự động không bắt đầu, vui lòng truy cập đường dẫn: My Computer--CD Driver ColorOS DRIVER--nhấn đúp vào Setup.exe để cài đặt.</string>
+    <string name="mac_help_title">Hãy tải về các file driver</string>
+    <string name="mac_help_message">Vui lòng sử dụng máy tính tải về cài đặt file driver AndroidFileTransfer.dmg để cài đặt nó. Link tải về:</string>
+    <string name="usb_can_select_file_transmit">Chạm để truyền tập tin</string>
+    <string name="usb_can_select_only_charge">Chạm để chuyển đổi sang \"Chỉ sạc\"</string>
+    <string name="usb_connectted_file">Truyền tập tin qua USB</string>
+    <string name="usb_connectted_image">Truyền hình ảnh qua USB</string>
+    <string name="usb_connectted_charge">Chỉ sạc pin</string>
+    <string name="insert_simcard_title">Thông báo quyền USB</string>
+    <string name="insert_simcard_title_message">Nếu không có thẻ SIM/USIM, giao diện USB chỉ có thể được sử dụng để sạc pin, chứ không thể truyền dữ liệu. Điều này là để ngăn không cho các bên thứ ba cài đặt chương trình với mục đích không tốt sau khi điện thoại được xuất xưởng. Vui lòng lắp thẻ SIM và kết nối lại với giao diện USB.</string>
+    <string name="insert_simcard_ok">Tôi biết</string>
+</resources>

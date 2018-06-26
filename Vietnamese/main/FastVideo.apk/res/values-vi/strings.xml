@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tua nhanh thời gian</string>
+    <string name="mode_name">Tua nhanh thời gian</string>
+    <string name="mode_name_for_download">Tua nhanh thời gian</string>
+    <string name="mode_desc">Tăng tốc thời gian quay video chuyển động nhanh</string>
+    <string name="prompt_message">Video sẽ được tăng tốc lên 10 lần</string>
+    <string name="fast_video_2_times">2x</string>
+    <string name="fast_video_4_times">4x</string>
+    <string name="fast_video_6_times">6x</string>
+    <string name="fast_video_8_times">8x</string>
+    <string name="fast_video_10_times">10 lần</string>
+</resources>

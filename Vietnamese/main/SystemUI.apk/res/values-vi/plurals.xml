@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d màn hình trong Tổng quan</item>
+        <item quantity="one">1 màn hình trong Tổng quan</item>
+    </plurals>
+</resources>

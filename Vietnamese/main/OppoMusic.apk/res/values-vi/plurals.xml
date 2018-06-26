@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d bài hát</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d album</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="StopTime">
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="StopPlayTime">
+        <item quantity="other">Dừng sau %d phút</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Đã thêm %d bài hát vào danh sách phát</item>
+        <item quantity="one">Đã thêm 1 bài hát vào danh sách phát</item>
+    </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%d bài hát</item>
+        <item quantity="one">%d bài hát</item>
+    </plurals>
+    <plurals name="mark_selected_song_items">
+        <item quantity="other">Đã chọn %d bài hát</item>
+        <item quantity="one">Đã chọn %d bài hát</item>
+    </plurals>
+    <plurals name="mark_selected_collection_items">
+        <item quantity="other">Đã chọn %d danh sách bài hát</item>
+        <item quantity="one">Đã chọn %d danh sách bài hát</item>
+    </plurals>
+</resources>

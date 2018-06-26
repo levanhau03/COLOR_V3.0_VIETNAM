@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eq_preset_names">
+        <item>Đóng</item>
+        <item>Tùy chỉnh</item>
+        <item>Pop</item>
+        <item>Rock and roll</item>
+        <item>Country</item>
+        <item>Jazz</item>
+        <item>Classical</item>
+        <item>Metal</item>
+        <item>Blues</item>
+        <item>Hip Hop</item>
+        <item>Dance</item>
+        <item>Electro</item>
+    </string-array>
+</resources>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dial_reply_messages_exp">
+        <item>Tôi đang họp. Tôi sẽ gọi sau.</item>
+        <item>Tôi đang bận. Tôi sẽ gọi lại sau.</item>
+        <item>Tôi đang lái xe. Tôi sẽ gọi lại sau.</item>
+        <item>Vui lòng đợi, tôi sẽ đến đó ngay.</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Điện thoại</item>
+        <item>thẻ SIM</item>
+    </string-array>
+    <string-array name="dayofweek">
+        <item>Hôm qua</item>
+    </string-array>
+    <string-array name="slidelist_add_slide_choose">
+        <item>Thêm vào phần đầu</item>
+        <item>Thêm vào phần cuối</item>
+    </string-array>
+    <string-array name="slideedit_add_slide_choose">
+        <item>Thêm vào mặt trước trang hiện tại</item>
+        <item>Thêm vào mặt sau trang hiện tại</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Bảng chữ cái GSM</item>
+        <item>Unicode</item>
+        <item>Tự động</item>
+    </string-array>
+    <string-array name="prefEntries_mms_size">
+        <item>50KB</item>
+        <item>100KB</item>
+        <item>150KB</item>
+        <item>200KB</item>
+        <item>300KB</item>
+    </string-array>
+    <string-array name="prefValues_mms_size">
+        <item>50</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="usemainnumexist_dialog_items">
+        <item>Lưu</item>
+        <item>Sao chép</item>
+        <item>Quay số</item>
+        <item>Gửi tin nhắn</item>
+    </string-array>
+    <string-array name="email_dialog_items">
+        <item>Gửi email</item>
+        <item>Lưu</item>
+        <item>Sao chép</item>
+    </string-array>
+    <string-array name="web_dialog_items">
+        <item>Bật (yêu cầu có kết nối mạng)</item>
+        <item>Lưu thành dấu trang</item>
+        <item>Sao chép</item>
+    </string-array>
+    <string-array name="web_dialog_items_without_save_bookmark">
+        <item>Bật (yêu cầu có truy cập mạng)</item>
+        <item>Sao chép URL</item>
+    </string-array>
+    <string-array name="prefEntries_sms_validity">
+        <item>Chưa đặt</item>
+        <item>1 giờ</item>
+        <item>6 giờ</item>
+        <item>12 giờ</item>
+        <item>1 ngày</item>
+        <item>Tối đa</item>
+    </string-array>
+    <string-array name="prefValues_sms_validity">
+        <item>-1</item>
+        <item>11</item>
+        <item>71</item>
+        <item>143</item>
+        <item>167</item>
+        <item>255</item>
+    </string-array>
+    <string-array name="prefEntries_mms_validity">
+        <item>2ngày</item>
+        <item>3 ngày</item>
+        <item>Tối đa</item>
+    </string-array>
+    <string-array name="prefValues_mms_validity">
+        <item>2</item>
+        <item>3</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="prefEntries_choose_message">
+        <item>thông tin sim 1</item>
+        <item>thông tin sim 2</item>
+        <item>thông tin các sim</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 giây</item>
+        <item>2 giây</item>
+        <item>3 giây</item>
+        <item>4 giây</item>
+        <item>5 giây</item>
+        <item>6 giây</item>
+        <item>7 giây</item>
+        <item>8 giây</item>
+        <item>9 giây</item>
+        <item>10 giây</item>
+        <item>Khác...</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>^_^</item>
+        <item>^o^</item>
+        <item>\"^_^\"</item>
+        <item>(@_@)</item>
+        <item>~>_&lt;~</item>
+        <item>\?_?</item>
+        <item>^_-</item>
+        <item>(-_-)</item>
+        <item>:^)</item>
+        <item>\@)--</item>
+        <item>:-&lt;</item>
+        <item>:-(</item>
+        <item>":'-("</item>
+        <item>:-*</item>
+        <item>:-X</item>
+        <item>\\_/7</item>
+        <item>:-o</item>
+        <item>/&lt;-/</item>
+        <item>:-{</item>
+        <item>(|0|)</item>
+        <item>\@_@</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Nụ cười</item>
+        <item>tự hào</item>
+        <item>nhút nhát</item>
+        <item>nhàm chán</item>
+        <item>cười mếu</item>
+        <item>nghi ngờ</item>
+        <item>nghịch ngợm</item>
+        <item>đần độn</item>
+        <item>cười gian</item>
+        <item>hoa hồng</item>
+        <item>rất buồn</item>
+        <item>buồn</item>
+        <item>khóc</item>
+        <item>" hôn"</item>
+        <item>" hôn nhiều"</item>
+        <item>trà / cà phê</item>
+        <item>bất ngờ</item>
+        <item>Xóa</item>
+        <item>Cái gì?</item>
+        <item>hamburger</item>
+        <item>Thư tỏ tình</item>
+    </string-array>
+    <string-array name="oppo_repeat_type">
+        <item>Một lần</item>
+        <item>Hàng ngày</item>
+        <item>Ngày làm việc</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="collected_message_dialog_items">
+        <item>Chuyển tiếp</item>
+        <item>Sao chép văn bản</item>
+        <item>Xem tin nhắn gốc</item>
+        <item>Xóa khỏi yêu thích</item>
+    </string-array>
+    <string-array name="timed_message_dialog_items">
+        <item>Gửi ngay</item>
+        <item>Sửa thời gian</item>
+    </string-array>
+</resources>

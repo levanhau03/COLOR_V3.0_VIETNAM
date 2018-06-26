@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dịch vụ nâng cấp hệ thống</string>
+    <string name="upgrade_title">Cập nhật ứng dụng hệ thống</string>
+    <string name="pause">Tạm dừng</string>
+    <string name="download_status_waiting">Đang đợi</string>
+    <string name="download_status_pause">Đã tạm dừng</string>
+    <string name="loading">Đang tải...</string>
+    <string name="download">Cài đặt</string>
+    <string name="upgrade">Cập nhật</string>
+    <string name="resume">Tiếp tục</string>
+    <string name="installing">Đang cài đặt</string>
+    <string name="re_upgrade">Thử lại</string>
+    <string name="re_download">Thử lại</string>
+    <string name="enable_count_upgrade">Có thể cập nhật (%d)</string>
+    <string name="all_upgrade">Cập nhật tất cả</string>
+    <string name="manager_upgrade_bottom_all">Cập nhật tất cả (cần %s)</string>
+    <string name="upgrade_info"><u>Hướng dẫn cập nhật</u></string>
+    <string name="empty_no_upgrade">Tất cả các ứng dụng đều ở phiên bản mới nhất</string>
+    <string name="recommend_hint">Nhấp lựa chọn để đến phần cuối</string>
+    <string name="clear_record">Xóa nhật ký</string>
+    <string name="no_network_toast">Không có kết nối mạng. Vui lòng kết nối mạng.</string>
+    <string name="download_fail_retry">Không thể tải xuống %s. Vui lòng thử lại.</string>
+    <string name="download_fail_no_retry">Tập tin nguồn của %s đã bị hỏng. Không tải xuống được.</string>
+    <string name="dialog_network_content">Bạn hiện đã được kết nối với mạng dữ liệu di động. %s dữ liệu di động sẽ được tiêu thụ. Bạn có muốn cập nhật không?</string>
+    <string name="dialog_network_continue">Tiếp tục</string>
+    <string name="dialog_network_cancel">Hủy</string>
+    <string name="download_title">Bộ cập nhật</string>
+    <string name="insufficient_space_msg">Không đủ bộ nhớ trên điện thoại. Vui lòng giải phóng không gian lưu trữ trên điện thoại của bạn.</string>
+    <string name="insufficient_space_positive_btn">Xóa ngay</string>
+    <string name="insufficient_space_negtive_btn">Hủy</string>
+    <string name="reboot_dialog_button">Khởi động lại ngay</string>
+    <string name="reboot_dialog_msg">Hệ thống đang được tối ưu hóa để nâng cao độ ổn định của điện thoại. Điện thoại sẽ khởi động lại sau %1$s giây.</string>
+    <string name="toast_installing">Đang cài đặt %s, vui lòng đợi</string>
+    <string name="wifi_update_auto">Tự động cập nhật qua Wi-Fi</string>
+    <string name="wifi_update_auto_summary">Tự động tải xuống và cập nhật ứng dụng chỉ khi được kết nối qua Wi-Fi</string>
+</resources>

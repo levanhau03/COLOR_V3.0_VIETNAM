@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">"\"%s\" đang cố gắng thiết lập kết nối VPN. Bạn có chấp nhận không?
+"</string>
+    <string name="warning">Không chấp nhận yêu cầu trừ khi bạn tin tưởng ứng dụng này. Nếu bạn không tin tưởng ứng dụng và đã chấp nhận yêu cầu nó có thể dẫn đến việc sử dụng trái phép dữ liệu.</string>
+    <string name="accept">Tin tưởng ứng dụng này</string>
+    <string name="legacy_title">VPN được kết nối</string>
+    <string name="configure">Định cấu hình</string>
+    <string name="disconnect">Ngắt kết nối</string>
+    <string name="session">Phiên</string>
+    <string name="duration">Thời lượng:</string>
+    <string name="data_transmitted">Đã gửi:</string>
+    <string name="data_received">Đã nhận:</string>
+    <string name="data_value_format">%1$sbyte /%2$sgói</string>
+    <string name="safe_warning">Nhắc nhở bảo mật</string>
+    <string name="agree">Đồng ý</string>
+    <string name="deny">Từ chối</string>
+</resources>

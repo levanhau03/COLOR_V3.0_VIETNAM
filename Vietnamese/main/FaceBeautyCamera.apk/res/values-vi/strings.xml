@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Làm đẹp</string>
+    <string name="mode_name">Làm đẹp</string>
+    <string name="skin_beauty_entry_on">Bật</string>
+    <string name="skin_beauty_entry_off">Đóng</string>
+    <string name="skin_beauty_title">Nói với điện thoại để làm nổi bật hình ảnh</string>
+    <string name="facebeauty_level_off">Không</string>
+    <string name="facebeauty_level_weak">Yếu</string>
+    <string name="facebeauty_level_middle">Vừa</string>
+    <string name="facebeauty_level_strong">Mạnh</string>
+    <string name="pref_skin_beauty_picturesize_title">Độ phân giải camera</string>
+    <string name="pref_skin_beauty_picturesize_entry_1600w">16 Megapixel 4:3</string>
+    <string name="pref_skin_beauty_picturesize_entry_800w">8 Megapixel 4:3</string>
+    <string name="mode_name_for_download">Làm đẹp</string>
+    <string name="mode_desc">Làm cho khuôn mặt trở nên đẹp hơn trong nhiều chế độ để làm cho bạn trông đẹp nhất.</string>
+    <string name="tone_white">Trắng</string>
+    <string name="tone_red">Hồng hào</string>
+    <string name="beauty_level">Mức độ đẹp:</string>
+</resources>

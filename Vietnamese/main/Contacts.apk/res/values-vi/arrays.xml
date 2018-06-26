@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dayofweek">
+        <item>Chủ nhật</item>
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+        <item>Hôm qua</item>
+    </string-array>
+    <string-array name="oppo_add_number_choice">
+        <item>Chọn từ danh bạ</item>
+        <item>Nhập số thủ công</item>
+    </string-array>
+    <string-array name="oppo_telephone_tag">
+        <item>Không có</item>
+        <item>Quảng cáo</item>
+        <item>Cuộc gọi quấy rối</item>
+        <item>Cuộc gọi lừa đảo</item>
+        <item>Vận tải chuyển phát</item>
+        <item>Giao hàng mang về</item>
+        <item>Công ty bất động sản</item>
+        <item>Quản lý tài sản và bảo hiểm</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="oppo_replace_name_dialog_value">
+        <item>Vẫn thêm nếu trùng tên đã tồn tại</item>
+        <item>Thay hồ sơ trùng tên</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Tổ chức</item>
+        <item>Ghi chú</item>
+    </string-array>
+    <string-array name="intelligent_dial_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="display_num">
+        <item>Đóng</item>
+        <item>Hiển thị liên hệ</item>
+        <item>Hiển thị mục ưa thích</item>
+    </string-array>
+    <string-array name="display_num_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="type_press_sound">
+        <item>Loại 1</item>
+        <item>Loại 2</item>
+    </string-array>
+    <string-array name="type_press_sound_Values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="type_ip_dial">
+        <item>12593</item>
+        <item>17911</item>
+        <item>17951</item>
+        <item>Đóng</item>
+    </string-array>
+    <string-array name="type_ip_dial_Values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="oppo_replace_name_dialog_summary">
+        <item>Sao chép tất cả các liên hệ, nhưng không ghi đè các liên hệ cùng tên hiện có</item>
+        <item>Sao chép tất cả các liên hệ và ghi đè các liên hệ cùng tên hiện có</item>
+        <item>Bỏ qua các liên hệ cùng tên hiện có</item>
+    </string-array>
+</resources>

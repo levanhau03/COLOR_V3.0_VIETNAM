@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tự động xóa</string>
+    <string name="memery_clean_result">Đóng %1$s chương trình, giải phóng bộ nhớ %2$s</string>
+    <string name="memery_clean_data_empty_result">%1$s ứng dụng đóng lại</string>
+    <string name="memery_clean_empty_result">Điện thoại của bạn là trong điều kiện tốt nhất</string>
+    <string name="mounting_internal_storage">Thiết bị đang được định dạng, hãy thử lại sau.</string>
+    <string name="memery_clean_result_notify_reboot">Bạn muốn điện thoại nhanh hoan và xóa sạch bộ nhớ? Bạn có thể khởi động lại điện thoại.</string>
+</resources>

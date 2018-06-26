@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_format_entries">
+        <item>mp3</item>
+        <item>wav</item>
+        <item>amr</item>
+    </string-array>
+</resources>

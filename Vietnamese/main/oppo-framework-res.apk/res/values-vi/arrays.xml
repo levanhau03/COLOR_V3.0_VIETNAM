@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>Tương lai</item>
+        <item>Phong cảnh</item>
+        <item>Chuyện vui</item>
+        <item>Dance</item>
+        <item>Kỷ niệm</item>
+        <item>Xin chào</item>
+        <item>Đáng yêu</item>
+        <item>Nhẹ nhàng</item>
+        <item>Nhạc chuông cổ điển</item>
+        <item>Bắt đầu ngay</item>
+        <item>Ánh nắng mùa hè</item>
+        <item>Dạo trên bãi biển</item>
+        <item>Khu làng tuyệt đẹp</item>
+        <item>Sự yên tĩnh xa xăm</item>
+        <item>Tín hiệu</item>
+        <item>Nhỏ giọt</item>
+        <item>Tự nhiên</item>
+        <item>Chuyển động</item>
+        <item>Tao nhã</item>
+        <item>Tiếp đất</item>
+        <item>Mở rộng</item>
+        <item>Thủy tinh</item>
+        <item>Quay lại</item>
+        <item>Đơn giản</item>
+        <item>Âm vang</item>
+        <item>Ding Dong</item>
+        <item>Vui vẻ</item>
+        <item>Ollie</item>
+        <item>Tăng dần</item>
+        <item>Làn sóng</item>
+        <item>Bình minh</item>
+        <item>Làm mịn</item>
+        <item>Hy vọng</item>
+        <item>Sóng âm thanh</item>
+        <item>Chào buổi sáng</item>
+        <item>Vui mừng</item>
+        <item>Lời ước buổi sáng</item>
+        <item>Trái tim đặc biệt</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>gọi điện, bạn có cho phép không?</item>
+        <item>đọc nhật ký cuộc gọi, bạn có cho phép không?</item>
+        <item>đọc danh bạ, bạn có cho phép không?</item>
+        <item>đọc nhật ký SMS, bạn có cho phép không?</item>
+        <item>gửi SMS, bạn có cho phép không?</item>
+        <item>gửi MMS, bạn có cho phép không?</item>
+        <item>bật/tắt kết nối dữ liệu, bạn có cho phép không?</item>
+        <item>bật/tắt Wi-Fi, bạn có cho phép không?</item>
+        <item>bật/tắt bluetooth, bạn có cho phép không?</item>
+        <item>sử dụng GPS (ứng dụng cũng có thể có được thông tin vị trí của bạn bằng các cách khác), bạn có cho phép không?</item>
+        <item>sử dụng máy ảnh, bạn có cho phép không?</item>
+        <item>ghi âm và ghi âm cuộc gọi, bạn có cho phép không?</item>
+        <item>bật/tắt NFC, bạn có cho phép không?</item>
+        <item>ghi hoặc xóa nhật ký cuộc gọi, bạn có cho phép không?</item>
+        <item>ghi và xóa danh bạ, bạn có cho phép không?</item>
+        <item>ghi và xóa nhật ký SMS, bạn có cho phép không?</item>
+        <item>ghi hoặc xóa nhật ký MMS, bạn có cho phép không?</item>
+        <item>đọc nhật ký MMS, bạn có cho phép không?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>SA</item>
+        <item>CH</item>
+    </string-array>
+</resources>

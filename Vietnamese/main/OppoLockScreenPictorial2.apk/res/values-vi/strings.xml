@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tạp chí màn hình khóa</string>
+    <string name="screen_lock_pictorial">Tạp chí màn hình khóa</string>
+    <string name="pictorial_summary_on">Hình nền màn hình khóa sẽ trở lại cài đặt trước đó sau khi bị tắt</string>
+    <string name="pictorial_summary_off">Màn hình khóa sẽ hiển thị tạp chí đẹp khi màn hình đang chạy</string>
+    <string name="subscription">Đăng ký thuê bao</string>
+    <string name="subscription_cancel">Hủy đăng ký</string>
+    <string name="subscription_summary">Chọn và đăng ký thuê bao kênh theo ưu tiên của bạn</string>
+    <string name="auto_updated">Cập nhật tự động</string>
+    <string name="checked_updated">Kiểm tra cập nhật</string>
+    <string name="dialog_title">Tải xuống bản cập nhật</string>
+    <string name="dialog_message">"Bạn muốn tải xuống bản cập nhật này?
+Có %1$s ảnh để tải xuống."</string>
+    <string name="dialog_message_images_size">"Bạn muốn tải xuống bản cập nhật này?
+Có %1$s ảnh để tải xuống.
+Kích cỡ dữ liệu xấp xỉ: %2$s."</string>
+    <string name="has_update_latest">Đây là phiên bản mới nhất</string>
+    <string name="dialog_delay">Để sau</string>
+    <string name="dialog_down_load">Tải xuống</string>
+    <string name="notification_downloading">Đang tải xuống…</string>
+    <string name="notification_download_stop">Đã tạm dừng tải xuống.</string>
+    <string name="notification_download_finish">Đã hoàn tất tải xuống.</string>
+    <string name="is_updating">Đang cập nhật …</string>
+    <string name="is_downloading">Đang tải xuống…</string>
+    <string name="is_downloading_progress">Đang tải xuống %2$s/%1$s …</string>
+    <string name="last_update_time">Cập nhật lần cuối vào: %1$s</string>
+    <string name="never_update">Chưa bao giờ được cập nhật</string>
+    <string name="connected_network_fail">Không kết nối được với máy chủ. Hãy kiểm tra mạng và thử lại sau.</string>
+    <string name="least_choose_one_type">Chọn ít nhất một thể loại.</string>
+    <string name="first_time_notify_updated">Bản cập nhật có sẵn cho tạp chí màn hình khóa</string>
+    <string name="editor">Chỉnh sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="no_subscription_selected">Không có cập nhật theo lịch trình cho các danh mục. Vui lòng đăng ký các danh mục liên quan trước khi thử lại.</string>
+    <string name="pre_release_title">Chế độ trước khi phát hành</string>
+    <string name="pre_release_summary">Bật tải xuống hình ảnh trước khi phát hành. Nếu bạn bật/tắt chức năng này, các hình ảnh đã được tải xuống trước đây sẽ bị xóa và tải xuống lại.</string>
+    <string name="pre_release_islam_region_title">Chọn cho các khu vực Hồi giáo</string>
+    <string name="pre_release_islam_region_summary">Bật công tắc để có được hình ảnh trước khi phát hành dành cho các khu vực Hồi giáo. Bật hoặc tắt công tắc sẽ xóa các hình ảnh đã tải xuống trước đây và tải lại chúng xuống. Xin lưu ý rằng ở chế độ trước khi phát hành, công tắc này có mức độ ưu tiên cao hơn khu vực hệ thống. Chọn US cho các khu vực không phải Hồi giáo và MY cho các khu vực Hồi giáo.</string>
+    <string name="no_photos">Không có ảnh</string>
+    <string name="category_my_channel">Kênh của tôi</string>
+    <string name="category_military">Quân sự</string>
+    <string name="category_travel">Du lịch</string>
+    <string name="category_entertainment">Giải trí</string>
+    <string name="category_car">Xe cộ</string>
+    <string name="category_sports">Thể thao</string>
+    <string name="category_beauty">Phụ nữ đẹp</string>
+    <string name="category_art">Nghệ thuật</string>
+    <string name="category_life">Cuộc sống</string>
+    <string name="category_world">Thế giới</string>
+    <string name="category_fashion">Thời trang</string>
+    <string name="category_my_channel_description">Thêm ảnh mà bạn thích vào tạp chí màn hình khóa, độ phân giải được khuyến nghị là %1$s</string>
+    <string name="category_military_description">Mô tả về các vấn đề quân sự</string>
+    <string name="category_travel_description">Bạn thậm chí không cần bước ra khỏi cửa để tận hưởng khung cảnh từ khắp nơi trên thế giới</string>
+    <string name="category_entertainment_description">Làm quen các ngôi sao trên khắp thế giới, tin tức phim ảnh</string>
+    <string name="category_car_description">Các dòng xe ô tô nổi tiếng từ khắp nơi trên thế giới, bộ sưu tập xe ô tô sang trọng</string>
+    <string name="category_sports_description">Tốc độ, sức mạnh, phô diễn vẻ đẹp của các môn thể thao</string>
+    <string name="category_beauty_description">Trân trọng vẻ đẹp của phụ nữ từ khắp nơi trên thế giới</string>
+    <string name="category_art_description">Thưởng thức sự quyến rũ độc đáo của nghệ thuật</string>
+    <string name="category_life_description">Khám phá vẻ đẹp của cuộc sống đời thường</string>
+    <string name="category_world_description">Hãy cảm nhận thế giới và tận hưởng vẻ đẹp của thiên nhiên</string>
+    <string name="category_fashion_description">Thời trang, sang trọng, theo dõi xu hướng</string>
+</resources>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="verify_unlock">verifyUnlock</string>
+    <string name="do_keyguard">doKeyguard</string>
+    <string name="on_screen_turned_on">onScreenTurnedOn</string>
+    <string name="on_screen_turned_off">onScreenTurnedOff</string>
+    <string name="add_widget_item">Chọn widget...</string>
+    <string name="sim_puk_menu_item">SIM PUK</string>
+    <string name="sim_pin_menu_item">PIN của SIM</string>
+    <string name="pattern_menu_item">Mẫu hình</string>
+    <string name="password_menu_item">Mật khẩu</string>
+    <string name="pin_menu_item">Mã PIN</string>
+    <string name="none_menu_item">Không có bảo mật</string>
+    <string name="secure_app_name">UnifiedCamera</string>
+    <string name="app_name">Trượt lên để mở khóa</string>
+    <string name="pic_share_title">Gửi</string>
+    <string name="pic_delete_title">Hình nền đã bị xóa. Nó sẽ không được hiển thị trên giao diện màn hình khóa</string>
+    <string name="pic_pin_use">Hình nền này đã bị ghim. Hình nền màn hình khóa sẽ không bị tự động thay đổi trước khi hình nền này được hủy ghim</string>
+    <string name="pic_pin_replace">Hình nền được ghim đã bị thay đổi sang hình nền hiện tại</string>
+    <string name="keyguard_charged">Đã sạc</string>
+    <string name="keyguard_plugged_in">Đang sạc %d%%</string>
+    <string name="keyguard_flash_plugged_in">Đang sạc</string>
+    <string name="keyguard_low_battery">Vui lòng cắm sạc</string>
+    <string name="keyguard_battery_no_connect">Lỗi tiếp xúc pin</string>
+    <string name="keyguard_missing_sim_message_short">Không có thẻ SIM</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Đang mở khóa thẻ SIM…</string>
+    <string name="keyguard_accessibility_status">Trạng thái</string>
+    <string name="keyguard_accessibility_pattern_unlock">Hình vẽ</string>
+    <string name="keyguard_accessibility_pin_unlock">Mở khóa mã PIN</string>
+    <string name="keyguard_accessibility_password_unlock">Mật khẩu</string>
+    <string name="keyguard_accessibility_pattern_area">Khu vực mẫu hình</string>
+    <string name="kg_emergency_call_label">Cuộc gọi khẩn cấp</string>
+    <string name="kg_back_label">Quay lại</string>
+    <string name="kg_forget_password">Quên mật khẩu</string>
+    <string name="kg_delete_label">Xóa</string>
+    <string name="kg_no_service">Không có dịch vụ nào</string>
+    <string name="kg_too_many_failed_attempts_countdown">Hãy thử lại sau %d giây.</string>
+    <string name="kg_pattern_instructions">Vui lòng vẽ mẫu hình của bạn</string>
+    <string name="kg_sim_pin_instructions">Nhập mã PIN</string>
+    <string name="kg_msim_pin_instructions">Nhập mã PIN SIM%1$d</string>
+    <string name="kg_short_msim_pin_instructions">Nhập mã PIN %1$s</string>
+    <string name="kg_msim_puk_instructions">Nhập mã PUK SIM%1$d</string>
+    <string name="kg_password_instructions">Hãy nhập mật khẩu</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Đang mở khóa thẻ SIM…</string>
+    <string name="kg_login_too_many_attempts">Quá nhiều lần nhập hình</string>
+    <string name="kg_login_instructions">Để mở khóa, hãy đăng nhập bằng tài khoản Google của bạn.</string>
+    <string name="kg_login_username_hint">Tên người dùng (email)</string>
+    <string name="kg_login_password_hint">Mật khẩu</string>
+    <string name="kg_login_submit_button">Đăng nhập</string>
+    <string name="kg_login_invalid_input">Tên người dùng hoặc mật khẩu không hợp lệ</string>
+    <string name="kg_login_checking_password">Đang kiểm tra tài khoản…</string>
+    <string name="kg_failed_attempts_almost_at_wipe">Bạn đã thử mở khóa điện thoại không thành công trong %1$d lần. Sau %2$d lần thử không thành công nữa, điện thoại của bạn sẽ được đặt lại về cài đặt mặc định của nhà sản xuất và sẽ mất tất cả các dữ liệu người dùng.</string>
+    <string name="kg_failed_attempts_now_wiping">Bạn đã %d lần mở khóa điện thoại không đúng cách. Bây giờ, điện thoại sẽ được đặt lại về mặc định ban đầu.</string>
+    <string name="kg_failed_attempts_almost_at_login">"%2$d
+
+ %3$d "</string>
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="keyguard_transport_pause_description">Nút tạm dừng</string>
+    <string name="keyguard_transport_play_description">Nút phát</string>
+    <string name="keyguard_transport_stop_description">Nút dừng</string>
+    <string name="keyguard_carrier_default">Không có dịch vụ</string>
+    <string name="keyguard_carrier_no_sim">không có sim</string>
+    <string name="unlockname">Trượt lên trên để mở khóa</string>
+    <string name="unlockAuthor">Trượt lên</string>
+    <string name="discription">Vuốt lên trên để mở khóa.</string>
+    <string name="keyguard_fingerprint_again_enter_code">Thử lại</string>
+    <string name="keyguard_fingerprint_password_again_enter_code">Thử lại dấu vân tay hoặc mật khẩu</string>
+    <string name="keyguard_fingerprint_pattern_again_enter_code">Thử lại dấu vân tay hoặc mẫu hình</string>
+    <string name="keyguard_fingerprint_password_again_enter_code_by_mismatching">"Thử lại dấu vân tay hoặc mật khẩu
+Không có dấu vân tay phù hợp"</string>
+    <string name="keyguard_fingerprint_pattern_again_enter_code_by_mismatching">"Thử lại dấu vân tay hoặc mẫu hình
+Không có dấu vân tay phù hợp"</string>
+    <string name="keyguard_fingerprint_password_again_enter_code_by_partial">"Thử lại dấu vân tay hoặc mật khẩu
+Đảm bảo rằng ngón tay của bạn phủ lên cảm biến dấu vân tay"</string>
+    <string name="keyguard_fingerprint_pattern_again_enter_code_by_partial">"Thử lại dấu vân tay hoặc mẫu hình
+Đảm bảo rằng ngón tay của bạn phủ lên cảm biến dấu vân tay"</string>
+    <string name="keyguard_fingerprint_password_again_enter_code_by_dirty">"Thử lại dấu vân tay hoặc mật khẩu
+Làm sạch bề mặt của cảm biến dấu vân tay và ngón tay của bạn, sau đó thử lại."</string>
+    <string name="keyguard_fingerprint_pattern_again_enter_code_by_dirty">"Thử lại dấu vân tay hoặc mẫu hình
+Làm sạch bề mặt của cảm biến dấu vân tay và ngón tay của bạn, sau đó thử lại."</string>
+    <string name="keyguard_fingerprint_password_enter_code">Sử dụng vân tay hoặc nhập mật khẩu</string>
+    <string name="keyguard_fingerprint_pattern_enter_code">Vui lòng nhập vân tay của bạn hoặc vẽ một mẫu hình.</string>
+    <string name="keyguard_attempt_password_fingerprint_enter_over">"Nhập mật khẩu
+Sau nhiều lần thử thất bại, bạn phải nhập mật khẩu để bật tính năng nhận dạng dấu vân tay."</string>
+    <string name="keyguard_attempt_pattern_fingerprint_enter_over">"Vẽ một mẫu hình
+Sau nhiều lần thử thất bại, bạn phải vẽ mẫu hình để bật tính năng nhận dạng dấu vân tay."</string>
+    <string name="keyguard_password_enter_puk_code">Nhập mã PUK</string>
+    <string name="invalid_puk">Vui lòng nhập mã PUK gồm 8 chữ số</string>
+    <string name="invalid_pin">Vui lòng nhập mã PIN gồm 4-8 chữ số</string>
+    <string name="keyguard_password_enter_new_pin_code">Nhập PIN mới</string>
+    <string name="keyguard_password_Confirm_pin_code">Xác nhận mã PIN mới</string>
+    <string name="pinpuk_attempts">Số lần thử còn lại:</string>
+    <string name="invalidPin">Nhập mã PIN gồm 4 đến 8 chữ số</string>
+    <string name="unknown_music">0 bài hát</string>
+    <string name="unknown_artist">Nghệ sỹ chưa biết</string>
+    <string name="emergency_calls_only">Chỉ cuộc gọi khẩn cấp</string>
+    <string name="emergency_calls_only_clear">" "</string>
+    <string name="sys_inserted_cmcc">CMCC</string>
+    <string name="sys_inserted_unicom">UNICOM</string>
+    <string name="sys_inserted_ctcc">China Telecom</string>
+    <string name="time_am">SA</string>
+    <string name="time_pm">CH</string>
+    <string name="camera_died_toast">Máy ảnh đã dừng hoạt động</string>
+    <string name="keyguard_password_enter_pin_code">Nhập mã PIN</string>
+    <string name="keyguard_password_enter_puk_prompt">Mã PUK</string>
+    <string name="keyguard_password_enter_pin_prompt">Mã PIN mới</string>
+    <string name="keyguard_password_entry_touch_hint">" "<font size="17">Chạm để nhập mật khẩu</font>" "</string>
+    <string name="keyguard_password_enter_password_code">Nhập mật khẩu để mở khóa</string>
+    <string name="keyguard_password_enter_pin_password_code">Vui lòng nhập mã PIN</string>
+    <string name="keyguard_password_wrong_pin_code">Mã PIN không chính xác</string>
+    <string name="keyguard_label_text">Để mở khóa nhấn Menu sau đó 0</string>
+    <string name="faceunlock_multiple_failures">Đã vượt quá số lần Mở khóa bằng khuôn mặt tối đa</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Nhấn nút Menu để mở khóa</string>
+    <string name="keyguard_network_locked_message">Mạng đã khóa</string>
+    <string name="keyguard_missing_sim_message">Thẻ SIM bị thiếu</string>
+    <string name="keyguard_missing_sim_instructions">Hãy lắp thẻ SIM.</string>
+    <string name="keyguard_missing_sim_instructions_long">Thẻ SIM bị mất hoặc không thể đọc được. Vui lòng gắn thẻ SIM.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Thẻ SIM không thể sử dụng</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Thẻ SIM của bạn đã bị vô hiệu hóa vĩnh viễn.
+Vui lòng liên hệ nhà cung cấp dịch vụ di động để có thẻ SIM mới."</string>
+    <string name="keyguard_sim_locked_message">Thẻ SIM đã bị xóa.</string>
+    <string name="keyguard_sim_puk_locked_message">Thẻ SIM đã bị khóa bằng PUK.</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. %3$dwidget%2$d</string>
+    <string name="keyguard_accessibility_add_widget">Thêm widget</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Trống</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Đã mở rộng khu vực mở khóa</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Đã thu gọn khu vực mở khóa</string>
+    <string name="keyguard_accessibility_widget">Widget, %1$s</string>
+    <string name="keyguard_accessibility_user_selector">Bộ chọn người dùng</string>
+    <string name="keyguard_accessibility_camera">Máy ảnh</string>
+    <string name="keygaurd_accessibility_media_controls">Điều khiển phương tiện</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Đã bắt đầu sắp xếp lại thứ tự các widget</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Đã hoàn tất sắp xếp lại thứ tự các widget</string>
+    <string name="keyguard_accessibility_widget_deleted">Widget, %1$s, đã bị xóa</string>
+    <string name="keyguard_accessibility_expand_lock_area">Mở rộng khu vực mở khóa</string>
+    <string name="keyguard_accessibility_slide_unlock">Trượt</string>
+    <string name="keyguard_accessibility_face_unlock">Mở khóa bằng khuôn mặt</string>
+    <string name="keyguard_accessibility_slide_area">Khu vực trượt</string>
+    <string name="keyguard_accessibility_transport_prev_description">Nút bài hát trước đó</string>
+    <string name="keyguard_accessibility_transport_next_description">Nút bài hát tiếp theo</string>
+    <string name="keyguard_accessibility_transport_pause_description">Nút tạm dừng</string>
+    <string name="keyguard_accessibility_transport_play_description">Nút phát</string>
+    <string name="keyguard_accessibility_transport_stop_description">Nút dừng</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Tôi thích</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Không thích</string>
+    <string name="keyguard_accessibility_transport_heart_description">Thích</string>
+    <string name="keyguard_accessibility_show_bouncer">Mở khóa để tiếp tục</string>
+    <string name="keyguard_accessibility_hide_bouncer">Đã hủy khởi chạy</string>
+    <string name="keyguard_accessibility_delete_widget_start">Thả %1$s để xóa nó</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s sẽ không bị xóa</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="keyboardview_keycode_alt">Alt</string>
+    <string name="keyboardview_keycode_cancel">Hủy</string>
+    <string name="keyboardview_keycode_delete">Xóa</string>
+    <string name="keyboardview_keycode_done">Xong</string>
+    <string name="keyboardview_keycode_mode_change">Thay đổi chế độ</string>
+    <string name="keyboardview_keycode_shift">Shift</string>
+    <string name="keyboardview_keycode_enter">Enter</string>
+    <string name="description_target_unlock">Mở khóa</string>
+    <string name="description_target_camera">Máy ảnh</string>
+    <string name="description_target_silent">Im lặng</string>
+    <string name="description_target_soundon">Bật âm thanh</string>
+    <string name="description_target_search">Tìm kiếm</string>
+    <string name="description_direction_up">Trượt lên để %s.</string>
+    <string name="description_direction_down">Trượt xuống để %s.</string>
+    <string name="description_direction_left">Trượt sang trái để %s.</string>
+    <string name="description_direction_right">Trượt sang phải để %s.</string>
+    <string name="user_switched">Người dùng hiện tại %1$s.</string>
+    <string name="kg_forgot_pattern_button_text">Đã quên hình</string>
+    <string name="kg_wrong_pattern">Rất tiếc, hãy thử lại</string>
+    <string name="kg_wrong_password">Mật khẩu không chính xác, vui lòng thử lại</string>
+    <string name="kg_wrong_pin">Mật khẩu không chính xác, vui lòng thử lại</string>
+    <string name="kg_pin_instructions">Nhập PIN</string>
+    <string name="kg_puk_enter_puk_hint">SIM hiện bị vô hiệu hóa. Nhập mã PUK để tiếp tục. Liên hệ với nhà cung cấp dịch vụ để biết chi tiết.</string>
+    <string name="kg_puk_enter_pin_hint">Nhập mã PIN mong muốn</string>
+    <string name="kg_enter_confirm_pin_hint">Xác nhận mã PIN mong muốn</string>
+    <string name="kg_password_wrong_pin_code">Mã PIN không chính xác.</string>
+    <string name="kg_invalid_sim_pin_hint">Vui lòng nhập mã PIN gồm 4-8 chữ số</string>
+    <string name="kg_invalid_sim_puk_hint">Mã PUK phải dài ít nhất 8 chữ số</string>
+    <string name="kg_invalid_puk">Hãy nhập lại mã PUK chính xác. Nhiều lần lặp lại sẽ vô hiệu hóa vĩnh viễn thẻ SIM.</string>
+    <string name="kg_invalid_confirm_pin_hint">Mã PIN không khớp</string>
+    <string name="kg_login_account_recovery_hint">"Quên tên người dùng hoặc mật khẩu?
+Vui lòng truy cập \" "<b>\"google.com/accounts/recovery\"</b>"\". "</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Bạn đã nhập sai mã PIN %1$d lần.
+
+Vui lòng thử lại sau %2$d giây."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message">"Bạn đã nhập sai mật khẩu %1$d lần.
+
+Vui lòng thử lại sau %2$d giây."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Bạn đã vẽ sai mẫu hình mở khóa %1$d lần.
+
+Vui lòng thử lại sau %2$d giây."</string>
+    <string name="kg_reordering_delete_drop_target_text">Xóa</string>
+    <string name="keyguard_transport_prev_description">Nút \"Bài hát trước đó\"</string>
+    <string name="keyguard_transport_next_description">Nút \"Bài hát tiếp theo\"</string>
+    <string name="description_touch_screen">Tiếp tục trượt lên để mở khóa</string>
+    <string name="no_keyguard_widget">Không có tiện ích trên màn hình khóa</string>
+    <string name="keyguard_code_donnot_mismatch">Không khớp.</string>
+    <string name="keyguard_code_length_prompt">Nhập 4-8 chữ số.</string>
+    <string name="keyguard_wrong_code_input">Mã không đúng.</string>
+    <string name="dismiss">Gạt bỏ</string>
+    <string name="keyguard_data_none">Tắt</string>
+    <string name="keyguard_alwaysask">Luôn hỏi</string>
+    <string name="keyguard_data">Kết nối dữ liệu:</string>
+    <string name="keyguard_sms">Tin nhắn:</string>
+    <string name="change_setting_for_removesim">Đã gỡ bỏ một số thẻ SIM. Cài đặt SIM mặc định bây giờ là:</string>
+    <string name="default_sim_removed">Đã gỡ bỏ SIM mặc định</string>
+    <string name="change_settings">Thay đổi cài đặt</string>
+    <string name="change_setting_for_twonewsim">Đã phát hiện thấy SIM mới. Nó được gán nhãn là</string>
+    <string name="change_setting_for_onenewsim">Đã phát hiện thấy SIM mới. Nó được gán nhãn là</string>
+    <string name="new_sim_inserted">Đã tìm thấy SIM mới</string>
+    <string name="new_sim">SIM mới</string>
+    <string name="choose_gprs_mode">Vui lòng chọn kết nối dữ liệu</string>
+    <string name="retries_left">Còn lại: %d</string>
+    <string name="one_retry_left">Còn 1 lần thử nữa</string>
+    <string name="puk_length_indicate">(8 chữ số)</string>
+    <string name="pin_length_indicate">(4-8 chữ số)</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Đang mở khóa thẻ SIM…</string>
+    <string name="sim_permanently_locked">Nhập sai mã PUK hơn 10 lần, thẻ SIM sẽ bị khóa vĩnh viễn.</string>
+    <string name="reenter_pin">Nhập lại mã Pin</string>
+    <string name="new_pin">Mã PIN Mới</string>
+    <string name="lockscreen_facelock_cancel">Chuyển sang mở khóa bằng mẫu hình</string>
+    <string name="lockscreen_facelock_instructions">Mở khóa bằng khuôn mặt</string>
+    <string name="full_year_month_day_week">dd MMMM , EEEE</string>
+    <string name="lockscreen_pattern_wrong">Rất tiếc, hãy thử lại</string>
+    <string name="lockscreen_battery_short">%d%%</string>
+    <string name="lockscreen_charged">Pin đã đầy</string>
+    <string name="lockscreen_forgot_pattern_button_text">Quên mẫu?</string>
+    <string name="keyguard_pin_accepted">Mật khẩu đúng</string>
+    <string name="invalidPuk">Nhập số gồm 8 chữ số</string>
+    <string name="keyguard_password_wrong_puk_code">Mã PUK không chính xác</string>
+    <string name="lockscreen_pattern_instructions">Vui lòng vẽ mẫu hình của bạn.</string>
+    <string name="lockscreen_low_battery">Vui lòng kết nối bộ sạc</string>
+    <string name="keyguard_attempt_pattern_enter_code">"Vẽ một mẫu hình
+Không thể nhận dạng vân tay của bạn"</string>
+    <string name="keyguard_attempt_password_enter_code">"Nhập mật khẩu
+Không thể nhận dạng vân tay của bạn"</string>
+    <string name="keyguard_fingerprint_again_security_view_enter_code">Thử lại</string>
+    <string name="lockscreen_plugged_in">Đang sạc %d%%</string>
+</resources>

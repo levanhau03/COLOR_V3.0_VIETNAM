@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Bạn có thể vào chế độ dành cho nhà phát triển sau %1$d bước hành động.</item>
+        <item quantity="one">Bạn có thể vào chế độ dành cho nhà phát triển sau %1$d bước hành động.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ cái.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ cái.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ thường.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ thường.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ hoa.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ hoa.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d chữ số.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 chữ số.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Mật khẩu phải chứa ít nhất %d ký tự đặc biệt.</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 ký tự đặc biệt.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Mật khẩu phải có ít nhất %d ký tự không phải chữ cái</item>
+        <item quantity="one">Mật khẩu phải chứa ít nhất 1 ký tự không phải chữ cái.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">PIN của SIM không chính xác. Còn lại %d lần thử.</item>
+        <item quantity="one">PIN của SIM không chính xác. Còn lại %d lần thử. Nếu không, bạn phải liên hệ với nhà vận hành mạng để mở khóa thiết bị.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d ứng dụng có thể đọc thông báo</item>
+        <item quantity="one">%d ứng dụng có thể đọc thông báo</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d ứng dụng cung cấp điều kiện</item>
+        <item quantity="one">%d ứng dụng cung cấp điều kiện</item>
+    </plurals>
+</resources>

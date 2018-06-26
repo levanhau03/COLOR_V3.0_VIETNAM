@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Siêu HD</string>
+    <string name="mode_name">Siêu HD</string>
+    <string name="pref_camera_highpicturesize_title">Độ phân giải camera</string>
+    <string name="pref_camera_highpicturesize_entry_6400w">64 Megapixel</string>
+    <string name="pref_camera_highpicturesize_entry_5000w">50 Megapixel</string>
+    <string name="pref_camera_highpicturesize_entry_3200w">32 Megapixel</string>
+    <string name="pref_camera_highpicturesize_entry_2400w">24 Megapixel</string>
+    <string name="pref_camera_highpicturesize_entry_2000w">20 megapixel</string>
+    <string name="pref_camera_highpicturesize_entry_1600w">16 megapixel</string>
+    <string name="pref_camera_highpicturesize_entry_1000w">10 Megapixel</string>
+    <string name="mode_name_for_download">Siêu HD</string>
+    <string name="mode_desc">Chế độ độ phân giải siêu cao cho bạn thấy ý nghĩa của các chi tiết.</string>
+    <string name="lower_power_limit_shutter">Pin yếu. Ảnh Siêu HD đã bị hạn chế.</string>
+    <string name="string_toast_processing">Đã chụp xong. Đang xử lý</string>
+</resources>

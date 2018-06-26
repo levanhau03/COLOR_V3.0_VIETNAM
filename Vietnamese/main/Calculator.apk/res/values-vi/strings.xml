@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Máy tính</string>
+    <string name="error">Lỗi</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="del">XOÁ</string>
+    <string name="clear">CLR</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="e">e</string>
+    <string name="ln">ln</string>
+    <string name="lg">ghi</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="basic">Hàm cơ bản</string>
+    <string name="advanced">Hàm nâng cao</string>
+    <string name="clear_history">Xóa lịch sử</string>
+    <string name="clear_all_history">Tất cả lịch sử đều bị xóa</string>
+    <string name="max_bit_input">Vượt quá chữ số tối đa (15)</string>
+    <string name="result_had_been_copy">Đã sao chép kết quả tính toán vào bảng tạm</string>
+    <string name="panlandport">Xoay màn hình để vào máy tính khoa học</string>
+</resources>

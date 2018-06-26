@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bao da ColorOS</string>
+    <string name="description_target_unlock">description_target_unlock</string>
+    <string name="description_target_camera">description_target_camera</string>
+    <string name="description_direction_right">description_direction_right</string>
+    <string name="description_direction_left">description_direction_left</string>
+    <string name="answer_call">Trả lời</string>
+    <string name="end_call">Kết thúc</string>
+    <string name="is_dialing">Đang quay số</string>
+    <string name="is_ending">Đang kết thúc...</string>
+    <string name="call_ended">Cuộc gọi đã kết thúc</string>
+    <string name="oppo_UnknowCity">-</string>
+    <string name="oppo_local_number">Số cục bộ</string>
+    <string name="oppo_special_number">Số dịch vụ</string>
+    <string name="emergency_call_dialog_number_for_display">Số khẩn cấp</string>
+    <string name="call_hold">Cuộc gọi của bạn với %1$s hiện đang giữ</string>
+    <string name="slide_end_call">Trượt ra ngoài vòng tròn để kết thúc cuộc gọi</string>
+    <string name="exit_window_mode">Chạm vào đây để thoát chế độ cửa sổ nhỏ</string>
+    <string name="no_music">0 bài hát</string>
+    <string name="ViewContentDescription">oppoLeather</string>
+    <string name="null_queue_toast">Hiện không có sẵn âm nhạc để phát!</string>
+    <string name="alarm_alert_dismiss_text">"Chạm để nhắc sau
+Kéo ra ngoài vòng tròn để tắt báo thức"</string>
+    <string name="unread_call">%1$dcuộc gọi nhỡ</string>
+    <string name="unread_message">%1$dtin SMS chưa đọc</string>
+    <string name="unread_call_message">%1$dcuộc gọi nhỡ,</string>
+    <string name="circle_incall_action_hint">Trượt sang phải để trả lời</string>
+    <string name="circle_outgoingcall_action_hint">Trượt sang trái để từ chối</string>
+    <string name="shutdown">Tắt máy</string>
+    <string name="reboot">Khởi động lại</string>
+    <string name="circle_incoming_call">Cuộc gọi đến...</string>
+    <string name="unknow_number">chưa biết</string>
+    <string name="call_hold_start">Cuộc gọi từ</string>
+    <string name="call_hold_end">đã bị từ chối</string>
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="keyguard_fingerprint_again_enter_code">Thử lại</string>
+    <string name="kg_password_instructions">Hãy nhập</string>
+    <string name="local_time">Thời gian địa phương</string>
+    <string name="local_date">Ngày địa phương</string>
+    <string name="alarm_close_alert">Kéo ra ngoài vòng tròn để tắt báo thức</string>
+    <string name="battery_low">Vui lòng kết nối bộ sạc</string>
+    <string name="battery_full">Pin đã đầy</string>
+    <string name="charging">Đang sạc</string>
+    <string name="flash_charging">Đang sạc nhanh</string>
+    <string name="keyguard_pin_unlock">Mở khóa</string>
+    <string name="unkonw_location">Địa điểm không xác định</string>
+    <string name="short_number">Số kiểu Short</string>
+</resources>

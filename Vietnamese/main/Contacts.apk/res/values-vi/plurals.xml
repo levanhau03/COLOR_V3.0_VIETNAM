@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="group_member_count">
+        <item quantity="other">%d thành viên</item>
+        <item quantity="one">%d thành viên</item>
+    </plurals>
+    <plurals name="oppo_msg_import_failed">
+        <item quantity="other">Không nhập được, %1$d liên hệ được nhập</item>
+        <item quantity="one">Không nhập được, %1$d liên hệ được nhập</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d liên hệ có số điện thoại</item>
+        <item quantity="one">1 liên hệ có số điện thoại</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d địa chỉ liên hệ</item>
+        <item quantity="one">1 địa chỉ liên hệ</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Tìm thấy %d liên hệ</item>
+        <item quantity="one">Tìm thấy 1 liên hệ</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Tìm thấy %d liên hệ</item>
+        <item quantity="one">Tìm thấy 1 liên hệ</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">được hợp nhất từ%0$dnguồn</item>
+        <item quantity="one">chưa được hợp nhất</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d nhóm</item>
+        <item quantity="one">1 nhóm</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d liên hệ trong %2$s</item>
+        <item quantity="one">%1$d liên hệ trong %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d liên hệ</item>
+        <item quantity="one">"%1$d liên hệ "</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$dThư thoại</item>
+        <item quantity="one">Thư thoại</item>
+    </plurals>
+</resources>

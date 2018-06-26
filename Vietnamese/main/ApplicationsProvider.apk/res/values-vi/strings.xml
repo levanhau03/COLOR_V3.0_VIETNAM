@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">T.kiếm Nhà cung cấp ư.dụng</string>
+    <string name="search_label">Ứng dụng</string>
+    <string name="application_desc">Ứng dụng</string>
+    <string name="settings_description">Tên các ứng dụng đã cài đặt</string>
+</resources>

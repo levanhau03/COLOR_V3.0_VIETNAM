@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Công cụ đa dạng</string>
+    <string name="unknown_music">0 bài hát</string>
+    <string name="unknown_artist">Nghệ sỹ chưa biết</string>
+</resources>

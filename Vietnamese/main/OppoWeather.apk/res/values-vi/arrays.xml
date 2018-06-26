@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="abbr_week_labels">
+        <item>Chủ nhật</item>
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+    </string-array>
+    <string-array name="air_info_array">
+        <item>Chất lượng không khí ở mức %1$s là tuyệt vời!</item>
+        <item>Chất lượng không khí ở mức %2$s là không tệ!</item>
+        <item>Chất lượng không khí ở mức %3$s là trung bình!</item>
+        <item>Chất lượng không khí ở mức %4$s là xấu!</item>
+        <item>Chất lượng không khí ở mức %5$s là kinh khủng!</item>
+        <item>Chất lượng không khí ở mức %6$s là nguy hiểm đối với sức khỏe!</item>
+    </string-array>
+    <string-array name="air_suggestion_array">
+        <item>Hãy tận hưởng không khí trong lành!</item>
+        <item>Không khí sẽ không ảnh hưởng đến các hoạt động ngoài trời của bạn.</item>
+        <item>Những người nhạy cảm nên giảm thiểu các hoạt động ngoài trời.</item>
+        <item>Hãy giảm thiểu tập thể dục ngoài trời càng nhiều càng tốt.</item>
+        <item>Hãy ở trong nhà càng nhiều càng tốt và giảm thiểu mọi hoạt động ngoài trời.</item>
+        <item>Hãy ở trong nhà càng nhiều càng tốt và mang khẩu trang bên bạn nếu cần.</item>
+    </string-array>
+    <string-array name="air_level_info">
+        <item>Xuất sắc</item>
+        <item>Tốt</item>
+        <item>Bình thường</item>
+        <item>Kém</item>
+        <item>Kém</item>
+        <item>Có hại cho sức khỏe</item>
+    </string-array>
+    <string-array name="warn_weather_type">
+        <item>Blizzard Blue</item>
+        <item>Blizzard orange</item>
+        <item>Blizzard red</item>
+        <item>Blizzard yellow</item>
+        <item>Rainstorm blue</item>
+        <item>Rainstorm orange</item>
+        <item>Rainstorm red</item>
+        <item>Rainstorm yellow</item>
+        <item>Hail blue</item>
+        <item>Hail orange</item>
+        <item>Hail red</item>
+        <item>Hail yellow</item>
+        <item>Gale blue</item>
+        <item>Gale orange</item>
+        <item>Gale red</item>
+        <item>Gale yellow</item>
+        <item>Fog blue</item>
+        <item>Fog orange</item>
+        <item>Fog red</item>
+        <item>Fog yellow</item>
+        <item>Road frozen blue</item>
+        <item>Road frozen orange</item>
+        <item>Road frozen red</item>
+        <item>Road frozen yellow</item>
+        <item>Arid blue</item>
+        <item>Arid orange</item>
+        <item>Arid red</item>
+        <item>Arid yellow</item>
+        <item>High temperature blue</item>
+        <item>High temperature orange</item>
+        <item>High temperature red</item>
+        <item>High temperature yellow</item>
+        <item>Cold blue</item>
+        <item>Cold orange</item>
+        <item>Cold red</item>
+        <item>Cold yellow</item>
+        <item>Lightning blue</item>
+        <item>Lightning orange</item>
+        <item>Lightning red</item>
+        <item>Lightning yellow</item>
+        <item>Haze blue</item>
+        <item>Haze orange</item>
+        <item>Haze red</item>
+        <item>Haze yellow</item>
+        <item>Sandstorm blue</item>
+        <item>Sandstorm orange</item>
+        <item>Sandstorm red</item>
+        <item>Sandstorm yellow</item>
+        <item>Frost blue</item>
+        <item>Frost orange</item>
+        <item>Frost red</item>
+        <item>Frost yellow</item>
+        <item>Typhoon blue</item>
+        <item>Typhoon orange</item>
+        <item>Typhoon red</item>
+        <item>Typhoon yellow</item>
+    </string-array>
+    <string-array name="base_wind_direction">
+        <item>Không lâu dài</item>
+        <item>Đông</item>
+        <item>Tây</item>
+        <item>Nam</item>
+        <item>Bắc</item>
+        <item>Đông nam</item>
+        <item>Đông bắc</item>
+        <item>Tây nam</item>
+        <item>Tây bắc</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Gió nhẹ</item>
+        <item>Gió đông</item>
+        <item>Gió tây</item>
+        <item>Gió nam</item>
+        <item>Gió bắc</item>
+        <item>Gió đông nam</item>
+        <item>Gió đông bắc</item>
+        <item>Gió tây nam</item>
+        <item>Gió tây bắc</item>
+    </string-array>
+    <string-array name="base_uv_description">
+        <item>Nhẹ</item>
+        <item>Rất nhẹ</item>
+        <item>Nhẹ</item>
+        <item>Vừa</item>
+        <item>Mạnh</item>
+        <item>Rất mạnh</item>
+        <item>Mạnh</item>
+    </string-array>
+    <string-array name="uv_description">
+        <item>Nhẹ</item>
+        <item>Rất nhẹ</item>
+        <item>Nhẹ</item>
+        <item>Vừa</item>
+        <item>Mạnh</item>
+        <item>Rất mạnh</item>
+        <item>Mạnh</item>
+    </string-array>
+    <string-array name="pm25_level_array">
+        <item>Tốt</item>
+        <item>Vừa phải</item>
+        <item>Có hại đối với sức khỏe cho những người nhạy cảm</item>
+        <item>Có hại đối với sức khỏe</item>
+        <item>Rất có hại đối với sức khỏe</item>
+        <item>Nguy hiểm</item>
+    </string-array>
+</resources>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>Abidjan</item>
+        <item>Accra</item>
+        <item>Addis Ababa</item>
+        <item>Algiers</item>
+        <item>Blantyre</item>
+        <item>Brazzaville</item>
+        <item>Cairo</item>
+        <item>Casablanca</item>
+        <item>Conakry</item>
+        <item>Dakar</item>
+        <item>Dar es Salaam</item>
+        <item>Cộng hòa Djibouti</item>
+        <item>Freetown</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Johannesburg</item>
+        <item>Kampala</item>
+        <item>Khartoum</item>
+        <item>Kigali</item>
+        <item>Kinshasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadishu</item>
+        <item>Nairobi</item>
+        <item>Cộng hòa dân chủ Sao Tome và Principe</item>
+        <item>Timbuktu</item>
+        <item>Tripoli</item>
+        <item>Tunis</item>
+        <item>Anchorage</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Asuncion</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bogota</item>
+        <item>Buenos Aires</item>
+        <item>Cancun</item>
+        <item>Caracas</item>
+        <item>Quần đảo Cayman</item>
+        <item>Chicago</item>
+        <item>Costa Rica</item>
+        <item>Curacao</item>
+        <item>Dawson Creek</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Cộng hòa Dominica</item>
+        <item>Edmonton</item>
+        <item>El Salvador</item>
+        <item>Fortaleza</item>
+        <item>Đảo Grand Turk</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Halifax</item>
+        <item>Havana</item>
+        <item>Indianapolis</item>
+        <item>Knox</item>
+        <item>Marengo</item>
+        <item>Petersburg</item>
+        <item>Ciudad Neza</item>
+        <item>Huehuetenango</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Kingstown</item>
+        <item>La Paz</item>
+        <item>Lima</item>
+        <item>Los Angeles</item>
+        <item>Louisville</item>
+        <item>Managua</item>
+        <item>Martinique</item>
+        <item>Mendoza</item>
+        <item>Metlakatla</item>
+        <item>Thành phố Mexico</item>
+        <item>Monterrey</item>
+        <item>Montevideo</item>
+        <item>Montreal</item>
+        <item>Nassau</item>
+        <item>New York</item>
+        <item>Beulah</item>
+        <item>Center</item>
+        <item>New Salem</item>
+        <item>Panama</item>
+        <item>Phoenix</item>
+        <item>Port of Spain</item>
+        <item>Port-au-Prince</item>
+        <item>Puerto Rico</item>
+        <item>San Domingo</item>
+        <item>Sao Paulo</item>
+        <item>Đảo Saint John</item>
+        <item>Saint Kitts</item>
+        <item>Saint Lucia</item>
+        <item>Saint Thomas</item>
+        <item>Tijuana</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Winnipeg</item>
+        <item>Nam cực</item>
+        <item>Longyearbyen</item>
+        <item>Almaty</item>
+        <item>Amman</item>
+        <item>Anadyr</item>
+        <item>Aktau</item>
+        <item>Baghdad</item>
+        <item>Bahrain</item>
+        <item>Baku</item>
+        <item>Bangkok</item>
+        <item>Beirut</item>
+        <item>Kolkata</item>
+        <item>Damascus</item>
+        <item>Dhaka</item>
+        <item>Dubai</item>
+        <item>Gaza</item>
+        <item>Hebron</item>
+        <item>Thành phố Hồ Chí Minh</item>
+        <item>Hong Kong</item>
+        <item>Istanbul</item>
+        <item>Jakarta</item>
+        <item>Jerusalem</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>Kathmandu</item>
+        <item>Kuala Lumpur</item>
+        <item>Kuwait</item>
+        <item>Macau</item>
+        <item>Manila</item>
+        <item>Muscat</item>
+        <item>Phnom Penh</item>
+        <item>Pyongyang</item>
+        <item>Qatar</item>
+        <item>Yangon</item>
+        <item>Riyadh</item>
+        <item>Sài Gòn</item>
+        <item>Seoul</item>
+        <item>Thượng Hải</item>
+        <item>Singapore</item>
+        <item>Đài Bắc</item>
+        <item>Tehran</item>
+        <item>Tel Aviv</item>
+        <item>Tokyo</item>
+        <item>Ulan Bator</item>
+        <item>Bermuda</item>
+        <item>Quần đảo Canary</item>
+        <item>Cape Verde</item>
+        <item>Reykjavik</item>
+        <item>Stanley</item>
+        <item>Adelaide</item>
+        <item>Brisbane</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>Melbourne</item>
+        <item>New South Wales</item>
+        <item>Perth</item>
+        <item>Queensland</item>
+        <item>Sydney</item>
+        <item>Victoria</item>
+        <item>Newfoundland</item>
+        <item>Saskatchewan</item>
+        <item>Đảo Easter</item>
+        <item>Amsterdam</item>
+        <item>Andorra</item>
+        <item>Athens</item>
+        <item>Belfast</item>
+        <item>Belgrade</item>
+        <item>Berlin</item>
+        <item>Bratislava</item>
+        <item>Brussels</item>
+        <item>Bucharest</item>
+        <item>Budapest</item>
+        <item>Chisinau</item>
+        <item>Copenhagen</item>
+        <item>Dublin</item>
+        <item>Gibraltar</item>
+        <item>Helsinki</item>
+        <item>Đảo Man</item>
+        <item>Istanbul</item>
+        <item>Kiev</item>
+        <item>Lisbon</item>
+        <item>London</item>
+        <item>Luxembourg</item>
+        <item>Madrid</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Monaco</item>
+        <item>Moscow</item>
+        <item>Oslo</item>
+        <item>Paris</item>
+        <item>Praha</item>
+        <item>Riga</item>
+        <item>Rome</item>
+        <item>San Marino</item>
+        <item>Sarajevo</item>
+        <item>Simferopol</item>
+        <item>Skopje</item>
+        <item>Sofia</item>
+        <item>Stockholm</item>
+        <item>Tallinn</item>
+        <item>Vatican</item>
+        <item>Vienna</item>
+        <item>Vilnius</item>
+        <item>Warsaw</item>
+        <item>Zagreb</item>
+        <item>Zurich</item>
+        <item>Antananarivo</item>
+        <item>Maldives</item>
+        <item>Mauritius</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Honolulu</item>
+        <item>Đảo Christmas</item>
+        <item>Noumea</item>
+        <item>Samoa</item>
+        <item>Tahiti</item>
+        <item>Antigua</item>
+        <item>Austin</item>
+        <item>Boston</item>
+        <item>Calgary</item>
+        <item>Columbus</item>
+        <item>Dallas</item>
+        <item>Knoxville</item>
+        <item>Memphis</item>
+        <item>Miami</item>
+        <item>Minneapolis</item>
+        <item>Ottawa</item>
+        <item>Philadelphia</item>
+        <item>Portland</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>Thành phố Salt Lake</item>
+        <item>San Jose</item>
+        <item>San Salvador</item>
+        <item>Seattle</item>
+        <item>Saint Louis</item>
+        <item>Washington</item>
+        <item>Houston</item>
+        <item>San Antonio</item>
+        <item>Jacksonville</item>
+        <item>Baltimore</item>
+        <item>Nashville</item>
+        <item>Milwaukee</item>
+        <item>Thành phố Oklahoma</item>
+        <item>Las Vegas</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Sacramento</item>
+        <item>Atlanta</item>
+        <item>Cleveland</item>
+        <item>New Orleans</item>
+        <item>Tampa</item>
+        <item>Pittsburgh</item>
+        <item>Cincinnati</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Thành phố Black Rock</item>
+        <item>Doha</item>
+        <item>Bắc Kinh</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Osaka</item>
+        <item>Lahore</item>
+        <item>Sannes</item>
+        <item>Barcelona</item>
+        <item>Munich</item>
+        <item>Milan</item>
+        <item>Frankfurt</item>
+        <item>Hà Nội</item>
+        <item>Ankara</item>
+        <item>Bangalore</item>
+        <item>Brasilia</item>
+        <item>Cape Town</item>
+        <item>Islamabad</item>
+        <item>Rio de Janeiro</item>
+        <item>Ann Arbor</item>
+        <item>Boulder</item>
+        <item>Cambridge</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>Quảng Châu</item>
+        <item>Hyderabad</item>
+        <item>Preston</item>
+        <item>Belo Horizonte</item>
+        <item>Santiago</item>
+        <item>Monrovia</item>
+        <item>Colombo</item>
+        <item>Chihuahua</item>
+        <item>Salvador</item>
+        <item>Gurgaon</item>
+        <item>Manchester</item>
+        <item>Kiev</item>
+        <item>Saint Petersburg</item>
+        <item>Krakow</item>
+        <item>Wroclaw</item>
+        <item>Hamburg</item>
+        <item>Oulu</item>
+        <item>Haifa</item>
+        <item>San Juan</item>
+        <item>Tegucigalpa</item>
+        <item>Paramaribo</item>
+        <item>Quito</item>
+    </string-array>
+    <string-array name="timezone_filters">
+        <item>Châu Mỹ</item>
+        <item>Châu Âu</item>
+        <item>Châu Phi</item>
+        <item>Châu Á</item>
+        <item>Úc</item>
+        <item>Thái Bình Dương</item>
+        <item>Tất cả</item>
+    </string-array>
+    <string-array name="date_format_values">
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>d-MMM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 giây</item>
+        <item>30 giây</item>
+        <item>1 phút</item>
+        <item>2 phút</item>
+        <item>10 phút</item>
+        <item>Không hết thời gian</item>
+    </string-array>
+    <string-array name="which_clock">
+        <item>Đầu tiên</item>
+        <item>Thứ hai</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+        <item>Chủ Nhật</item>
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+        <item>Chủ nhật</item>
+    </string-array>
+    <string-array name="screen_timeout_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>600000</item>
+        <item>-</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Thời gian sử dụng</item>
+        <item>Số lần bật</item>
+        <item>Tên ứng dụng</item>
+    </string-array>
+    <string-array name="Timer_RingName_List">
+        <item>Music1</item>
+        <item>Music2</item>
+        <item>Music3</item>
+        <item>Music4</item>
+        <item>Music5</item>
+        <item>Music</item>
+    </string-array>
+    <string-array name="Timer_RingName_FileName_List">
+        <item>Music1</item>
+        <item>Music2</item>
+        <item>Music3</item>
+        <item>Music4</item>
+        <item>Music5</item>
+        <item>Music</item>
+    </string-array>
+    <string-array name="dayofweek">
+        <item>Chủ nhật</item>
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+    </string-array>
+    <string-array name="global_timezone_day_offset">
+        <item>Ngày mai</item>
+        <item>Hôm nay</item>
+        <item>Hôm qua</item>
+    </string-array>
+    <string-array name="global_timezone_hours_format">
+        <item>%1$s giờ sau</item>
+        <item>%1$s giờ trước</item>
+        <item>%1$s giờ sau</item>
+        <item>%1$s giờ trước</item>
+    </string-array>
+    <string-array name="alarm_repeat_strings">
+        <item>Không bao giờ</item>
+        <item>Hàng ngày</item>
+        <item>Ngày làm việc</item>
+        <item>Ngày làm việc</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Đã kích hoạt báo thức, báo thức kế tiếp sẽ đổ chuông trong 1 phút.</item>
+        <item>Đã kích hoạt báo thức, báo thức kế tiếp sẽ đổ chuông sau %1$s.</item>
+        <item>Đã kích hoạt báo thức, báo thức kế tiếp sẽ đổ chuông sau %2$s.</item>
+        <item>Đã kích hoạt báo thức, báo thức kế tiếp sẽ đổ chuông sau %1$s %2$s.</item>
+        <item>Đã kích hoạt báo thức, báo thức kế tiếp sẽ đổ chuông sau %3$s.</item>
+        <item>Đã kích hoạt báo thức, báo thức kế tiếp sẽ đổ chuông sau %1$s %3$s.</item>
+        <item>Đã kích hoạt báo thức, báo thức kế tiếp sẽ đổ chuông sau %2$s %3$s.</item>
+        <item>Đã kích hoạt báo thức, báo thức kế tiếp sẽ đổ chuông sau %1$s %2$s %3$s.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>20 phút</item>
+        <item>25 phút</item>
+        <item>30 phút</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="oppo_time_of_snooze">
+        <item>Tắt</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+    </string-array>
+    <string-array name="alarm_alert_snooze_string">
+        <item>Vuốt lên để đóng báo thức</item>
+        <item>Chạm để nhắc sau</item>
+        <item>Chạm để nhắc sau</item>
+    </string-array>
+    <string-array name="oppo_AlertType">
+        <item>Chuông</item>
+        <item>Rung</item>
+        <item>Rung và chuông</item>
+    </string-array>
+    <string-array name="repeat_dayofweek">
+        <item>Mọi Thứ Hai</item>
+        <item>Mọi Thứ Ba</item>
+        <item>Mọi Thứ Tư</item>
+        <item>Mọi Thứ Năm</item>
+        <item>Mọi Thứ Sáu</item>
+        <item>Mọi Thứ Bảy</item>
+        <item>Mọi Chủ nhật</item>
+    </string-array>
+    <string-array name="oppo_repeat_type">
+        <item>Một lần</item>
+        <item>Hàng ngày</item>
+        <item>Ngày làm việc</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Không</item>
+        <item>Báo lại</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="default_alarm_names">
+        <item>Ăn nhẹ buổi chiều</item>
+        <item>Đi làm</item>
+        <item>Thức dậy</item>
+    </string-array>
+</resources>

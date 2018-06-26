@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_update_entries">
+        <item>Đóng</item>
+        <item>Chỉ sử dụng Wi-Fi</item>
+        <item>Luôn luôn (cần có lưu lượng dữ liệu)</item>
+    </string-array>
+</resources>

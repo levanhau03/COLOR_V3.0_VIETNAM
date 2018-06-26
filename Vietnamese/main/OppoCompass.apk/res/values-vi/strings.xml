@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La bàn</string>
+    <string name="North">Bắc</string>
+    <string name="East">Đông</string>
+    <string name="South">Nam</string>
+    <string name="West">Tây</string>
+    <string name="Judge">Hiệu chỉnh</string>
+    <string name="Help">Trợ giúp</string>
+    <string name="NorthEast">Đông Bắc</string>
+    <string name="EastNorth">Bắc Đông</string>
+    <string name="EastSouth">Nam Đông</string>
+    <string name="SouthEast">Đông Nam</string>
+    <string name="SouthWest">Tây Nam</string>
+    <string name="WestSouth">Tây Nam</string>
+    <string name="WestNorth">Tây Bắc</string>
+    <string name="NorthWest">Tây Tây Bắc</string>
+    <string name="menu_Calibration">Hiệu chỉnh</string>
+    <string name="disturb">Hiệu chỉnh la bàn</string>
+    <string name="hint_calibration">Tránh xa nhiễu và hiệu chỉnh lại la bàn như được minh họa.</string>
+    <string name="adjust">Lắc điện thoại để hiệu chỉnh la bàn</string>
+    <string name="menu_Help">Trợ giúp</string>
+    <string name="Calibration_Instructions">"Khi giá trị chính xác của la bàn bị lệch, hệ thống sẽ tự động bật gợi ý hiệu chỉnh. Trong khi hiệu chỉnh, hãy giữ điện thoại di động và xoay theo hình số 8 để điều chỉnh. 
+Giá trị chính xác hiện tại chỉ là %d,xin hiệu chỉnh ngay."</string>
+    <string name="Calibration_Top">"Khi giá trị chính xác của la bạn bị lệch, hệ thống sẽ tự động bật gợi ý hiệu chỉnh. 
+
+"<b>Trong khi điều chỉnh, hãy giữ điện thoại di động và xoay theo hình số 8 để điều chỉnh Giá trị chính xác hiện tại là cao nhất.</b></string>
+    <string name="Help_Instructions">Phần đầu của la bàn hiển thị hướng và góc bạn đang nhìn. Kim của la bàn chỉ hướng bắc. Khi giá trị chính xác của la bàn bị lệch, hệ thống sẽ tự động bật gợi ý hiệu chỉnh. Trong khi hiệu chỉnh, hãy giữ điện thoại di động và xoay theo hình số 8 để điều chỉnh.</string>
+    <string name="Close">Tắt</string>
+    <string name="JudgeBeforeUse">Đảm bảo rằng bạn đã hiệu chỉnh trước khi sử dụng</string>
+    <string name="longitude_east">"Kinh độ "</string>
+    <string name="calibrate">Hiệu chỉnh</string>
+    <string name="latitude_north">"Vĩ độ "</string>
+    <string name="gps_no_open">Hãy bật thiết bị GPS</string>
+    <string name="comprass_interference">Hiệu chỉnh la bàn</string>
+    <string name="comprass_interference_detail">"Tránh xa nguồn gây nhiễu và thực hiện các thao tác như được minh họa.
+Hiệu chỉnh lại la bàn"</string>
+    <string name="north">Bắc</string>
+    <string name="east">Đông</string>
+    <string name="south">Nam</string>
+    <string name="west">Tây</string>
+    <string name="north_east">Đông Bắc</string>
+    <string name="south_east">Đông Nam</string>
+    <string name="south_west">Tây Nam</string>
+    <string name="north_west">Tây Bắc</string>
+    <string name="cta_test_dialog_title">Tuyên bố miễn trừ và điều khoản</string>
+    <string name="cta_test_dialog_content">Cần có kết nối mạng và truy cập vị trí để sử dụng la bàn. Bạn có chấp nhận không?</string>
+    <string name="cta_test_dialog_positive">Đồng ý</string>
+    <string name="cta_test_dialog_negative">Thoát</string>
+    <string name="cta_test_dialog_title_reject">Đã bật theo dõi vị trí GPS chính xác cho \"La bàn\".</string>
+    <string name="cta_test_dialog_content_reject">Bật theo dõi vị trí GPS chính xác cho ứng dụng này?</string>
+</resources>

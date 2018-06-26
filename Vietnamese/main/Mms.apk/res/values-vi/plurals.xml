@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s giây</item>
+        <item quantity="one">%sgiây</item>
+        <item quantity="few">%s giây</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">"%1$s Phù hợp với  '%2$s' kết quả tìm kiếm "</item>
+        <item quantity="one">"%1$s Phù hợp với '%2$s'"</item>
+    </plurals>
+    <plurals name="message_count_notification">
+        <item quantity="other">%1$s tin nhắn mới</item>
+        <item quantity="one">%1$s tin nhắn mới</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">%d đọc báo cáo được gửi</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s người</item>
+    </plurals>
+</resources>

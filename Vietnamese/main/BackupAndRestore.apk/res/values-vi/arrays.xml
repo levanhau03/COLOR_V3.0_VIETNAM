@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storage_place">
+        <item>Bộ nhớ điện thoại</item>
+        <item>thẻ SD</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+        <item>Chủ nhật</item>
+    </string-array>
+    <string-array name="days_of_week_short">
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+        <item>Chủ nhật</item>
+    </string-array>
+    <string-array name="repeat_dayofweek">
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+        <item>Chủ nhật</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>" Sao lưu theo giờ được thiết lập, sao lưu kế tiếp sẽ bắt đầu trong 1 phút."</item>
+        <item>Sao lưu theo giờ được thiết lập, sao lưu kế tiếp sẽ bắt đầu sau %1$s.</item>
+        <item>Sao lưu theo giờ được thiết lập, sao lưu kế tiếp sẽ bắt đầu sau %2$s.</item>
+        <item>Sao lưu theo giờ được thiết lập, sao lưu kế tiếp sẽ bắt đầu sau %1$s%2$s.</item>
+        <item>Sao lưu theo giờ được thiết lập, sao lưu kế tiếp sẽ bắt đầu trong %3$s</item>
+        <item>Sao lưu theo giờ được thiết lập, sao lưu kế tiếp sẽ bắt đầu sau %1$s %3$s .</item>
+        <item>Sao lưu theo giờ được thiết lập, sao lưu kế tiếp sẽ bắt đầu sau %2$s %3$s.</item>
+        <item>Sao lưu theo giờ được thiết lập, sao lưu kế tiếp sẽ bắt đầu sau %1$s%2$s%3$s.</item>
+    </string-array>
+    <string-array name="storage_place_phone">
+        <item>Bộ nhớ điện thoại</item>
+    </string-array>
+</resources>

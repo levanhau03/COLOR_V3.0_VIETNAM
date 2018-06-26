@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 giây</item>
+        <item>4 giây</item>
+        <item>6 giây</item>
+        <item>8 giây</item>
+        <item>10 giây</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Không lặp lại nhắc nhở</item>
+        <item>Một lần</item>
+        <item>2 phút một lần</item>
+        <item>15 phút một lần</item>
+    </string-array>
+</resources>

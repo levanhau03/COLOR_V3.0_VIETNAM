@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Công cụ chụp ảnh màn hình</string>
+    <string name="edit">Ảnh chụp màn hình</string>
+    <string name="next">Trang sau</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="ok">Xong</string>
+    <string name="longshot_mode">Chế độ ảnh chụp màn hình mở rộng</string>
+    <string name="unsupported">Trang này không hỗ trợ ảnh chụp màn hình mở rộng</string>
+    <string name="reach_bottom">Trang cuối cùng</string>
+    <string name="join_error">Không kết hợp được các ảnh</string>
+    <string name="stitch_success">Đã chụp trang %1$d</string>
+    <string name="maximum_pages">, Tối đa %1$d trang cho ảnh chụp màn hình</string>
+    <string name="guide_main_btn_next">Chạm vào \"Trang tiếp theo\" để chọn số trang ảnh chụp màn hình</string>
+    <string name="guide_main_btn_edit">Chạm vào \"Khu vực ảnh chụp màn hình\" để chọn khu vực màn hình để chụp</string>
+    <string name="guide_main_btn_save">Chạm vào \"Lưu\" để lưu ảnh chụp màn hình đã chọn</string>
+    <string name="guide_main_next">Tiếp theo</string>
+    <string name="guide_main_start">Bắt đầu</string>
+    <string name="guide_edit_drag">Kéo để chọn khu vực ảnh chụp màn hình</string>
+    <string name="screen_orientation_changed">Ảnh chụp màn hình không hỗ trợ chuyển đổi hướng màn hình</string>
+    <string name="top_activity_changed">Ảnh chụp màn hình không hỗ trợ chuyển đổi trang</string>
+    <string name="reject_on_drag_screen">Chức năng ảnh chụp màn hình mở rộng đã bị tắt trong chế độ một tay</string>
+    <string name="oppo_share">Gửi</string>
+    <string name="oppo_delete">Xóa</string>
+    <string name="oppo_delete_title">Xác nhận xóa?</string>
+    <string name="oppo_delete_content">Bạn muốn xóa tệp đã chọn?</string>
+    <string name="screenshot_saving_ticker">Đang lưu ảnh chụp màn hình...</string>
+    <string name="screenshot_saving_title">Ảnh chụp màn hình đang được lưu.</string>
+    <string name="screenshot_saving_text">…</string>
+    <string name="screenshot_saved_title">Đã chụp ảnh màn hình.</string>
+    <string name="screenshot_saved_text">Chạm để xem ảnh chụp màn hình của bạn.</string>
+    <string name="screenshot_failed_title">Không thể lưu ảnh chụp màn hình.</string>
+    <string name="screenshot_failed_text">Không thể lưu ảnh chụp màn hình. Bộ lưu trữ có thể đang được sử dụng.</string>
+    <string name="reject_on_secure_window">Chức năng chụp ảnh màn hình đã bị tắt cho giao diện mã hóa</string>
+    <string name="undo_success">Trang cuối cùng đã bị xóa khỏi ảnh chụp màn hình mở rộng</string>
+    <string name="prev">Trở về</string>
+</resources>

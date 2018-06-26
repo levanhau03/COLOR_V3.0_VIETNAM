@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="inlay_wallpapers_name">
+        <item>Heart of Ocean</item>
+        <item>Peak of Snow Mountain</item>
+        <item>Moment of Blooming</item>
+        <item>Golden Streams</item>
+        <item>Whisperings of the Summer Night</item>
+        <item>Glittering Streams</item>
+        <item>Elegant white</item>
+        <item>Palouse sunshine</item>
+        <item>Blue coast</item>
+        <item>Colorful time</item>
+        <item>End of horizon</item>
+        <item>Hello colors</item>
+    </string-array>
+</resources>

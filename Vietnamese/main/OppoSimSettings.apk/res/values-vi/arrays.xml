@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_usage_time_interval">
+        <item>Hôm qua</item>
+        <item>Hôm nay</item>
+        <item>Tháng này</item>
+    </string-array>
+    <string-array name="data_usage_time_interval_cmcc">
+        <item>Hôm qua</item>
+        <item>Hôm nay</item>
+        <item>Tuần này</item>
+        <item>Tháng này</item>
+    </string-array>
+    <string-array name="traffic_tyle_interval">
+        <item>Sử dụng dữ liệu</item>
+        <item>Sử dụng Wi-Fi</item>
+    </string-array>
+    <string-array name="traffic_limit_size_entry">
+        <item>5MB</item>
+        <item>10MB</item>
+        <item>30MB</item>
+        <item>50MB</item>
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="over_limit_operation_entry">
+        <item>Chỉ cảnh báo</item>
+        <item>Tự động ngắt kết nối sau khi cảnh báo</item>
+    </string-array>
+    <string-array name="service_brand_name">
+        <item>GoTone</item>
+        <item>M-zone</item>
+        <item>Easyown</item>
+        <item>Unicom 2G</item>
+        <item>Unicom 3G/4G</item>
+        <item>China Telecom</item>
+    </string-array>
+    <string-array name="telecom_brand_name">
+        <item>China Telecom</item>
+    </string-array>
+    <string-array name="unicom_brand_name">
+        <item>Unicom 2G</item>
+        <item>Unicom 3G/4G</item>
+    </string-array>
+    <string-array name="cmcc_brand_name">
+        <item>GoTone</item>
+        <item>M-zone</item>
+        <item>Easyown</item>
+    </string-array>
+    <string-array name="operator_carry_name">
+        <item>CMCC</item>
+        <item>CHINA UNICOM</item>
+        <item>China Telecom</item>
+    </string-array>
+</resources>

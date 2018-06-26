@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hiển thị trên màn hình khóa</string>
+    <string name="slide_prompt">Trượt sang phải để xem</string>
+    <string name="have_new_notification">thông báo mới</string>
+    <string name="miss_short_message">tin nhắn mới</string>
+    <string name="miss_short_messages">tin nhắn mới</string>
+    <string name="leave_and_open">Sau khi thả, Thông báo màn hình sẽ được bật</string>
+    <string name="leave_and_close">Sau khi thả, Thông báo màn hình sẽ bị tắt</string>
+</resources>

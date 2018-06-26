@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video</string>
+    <string name="need_to_configure">Không chọn Video nào.</string>
+    <string name="storage_unmounted">Lưu trữ không khả dụng</string>
+    <string name="videoview_error_title">Không thể phát video</string>
+    <string name="videoview_error_text_unknown">Rất tiếc, không thể phát video này.</string>
+</resources>

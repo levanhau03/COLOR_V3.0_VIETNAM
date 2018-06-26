@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Đăng ký khi khởi động máy</string>
+    <string name="complete_info">Cảm ơn bạn đã chọn OPPO</string>
+    <string name="start_use">Bắt đầu</string>
+    <string name="language_next">Tiếp</string>
+    <string name="add_fingerprint_title">Thêm một vân tay</string>
+    <string name="add_fingerprint_summery">Sử dụng dấu vân tay làm mật khẩu hoặc mật khẩu thanh toán</string>
+    <string name="net_connection_page_title">Kết nối Wi-Fi</string>
+    <string name="data_text_title">Bảo vệ sử dụng dữ liệu</string>
+    <string name="data_text_tag">Nếu đã đăng ký gói dữ liệu, bạn nên sử dụng kết nối dữ liệu di động. Tuy nhiên, xin lưu ý rằng nhà điều hành mạng sẽ tính phí bổ sung cho dữ liệu vượt quá gói đăng ký.</string>
+    <string name="data_text_swith">Sử dụng dữ liệu di động</string>
+    <string name="data_text_toast">Không kết nối được với mạng dữ liệu, vui lòng gắn thẻ SIM</string>
+    <string name="set_experience_title">Điều khoản sử dụng</string>
+    <string name="ocloud_title">NearMe Cloud</string>
+    <string name="ocloud_backup_title">Khôi phục dữ liệu từ O-Cloud về điện thoại</string>
+    <string name="ocloud_backup_summery">Sao lưu danh bạ, tin nhắn SMS và sổ tay lên O-Cloud để tiện sử dụng.</string>
+    <string name="user_experience_title">Tham gia \"Dự án trải nghiệm của người dùng\"</string>
+    <string name="user_experience_summery">Chúng tôi sẽ thu thập dữ liệu thống kê về việc bạn sử dụng các chức năng khác nhau để cải tiến sản phẩm và dịch vụ. Quá trình thu thập này sẽ tuân thủ chính sách quyền riêng tư của chúng tôi.</string>
+    <string name="update_service_title">Dịch vụ cập nhật dữ liệu</string>
+    <string name="update_service_summery">Dịch vụ này cho phép các dịch vụ như tạp chí màn hình khóa, cập nhật hệ thống và khung hệ thống có quyền truy cập mạng, nếu không chúng sẽ không thể hoạt động bình thường.</string>
+    <string name="update_virus_title">Tự động cập nhật cơ sở dữ liệu virus khi được kết nối với Wi-Fi</string>
+    <string name="update_virus_summery">Dịch vụ này có thể bảo vệ điện thoại của bạn khỏi các cuộc tấn công virus. Bạn có thể bật hoặc tắt chức năng này trong phần \"Trung tâm bảo mật - Quét virus - Cài đặt\".</string>
+    <string name="update_lockscreen_title">Cho phép kết nối Internet trên màn hình khóa</string>
+    <string name="update_lockscreen_summery">Dịch vụ này yêu cầu kết nối Internet (chỉ Wi-Fi theo mặc định) để cập nhật hình nền tạp chí màn hình khóa, hãy bật nó để sử dụng bình thường. Bạn có thể bật và tắt dịch vụ trong Cài đặt - Màn hình khóa và hình nền.</string>
+    <string name="dialog_title">Chú ý</string>
+    <string name="dialog_summery">Tắt dịch vụ cập nhật dữ liệu sẽ ảnh hưởng đến các cập nhật hệ thống bình thường, tạp chí màn hình khóa và khung hệ thống. Bạn có chắc muốn tiếp tục không?</string>
+    <string name="add_strings_title">Chính sách bảo mật</string>
+    <string name="read_done">Tôi đã đọc</string>
+    <string name="join_user_experience">Tham gia \"Dự án trải nghiệm của người dùng\"</string>
+    <string name="oppo_account">Tài khoản OPPO</string>
+    <string name="oppo_account_skip">bỏ qua</string>
+    <string name="oppo_account_title">Đăng nhập vào tài khoản OPPO để tận hưởng các đặc quyền của bạn:</string>
+    <string name="activity_boot_tips_cloud">Bộ nhớ</string>
+    <string name="activity_boot_tips_fix">Dịch vụ sửa chữa dự phòng</string>
+    <string name="activity_boot_tips_findmyphone">Tìm điện thoại của tôi</string>
+    <string name="activity_boot_login_title">Đăng nhập vào tài khoản OPPO hiện tại</string>
+    <string name="activity_boot_register_title">Tạo tài khoản OPPO miễn phí</string>
+    <string name="activity_boot_register_summary">Mã xác nhận SMS sẽ được gửi và do nhà mạng của bạn tính phí.</string>
+    <string name="dialog_tips_title">Mẹo</string>
+    <string name="activity_boot_cancle_dialog_message">Bạn không thể tận hưởng các đặc quyền của thành viên nếu bỏ qua đăng nhập tài khoản OPPO. Bạn có chắc muốn bỏ qua không?</string>
+    <string name="activity_boot_cancle_dialog_sure_msg">Bỏ qua (không khuyến nghị)</string>
+    <string name="activity_boot_cancle_dialog_cancle_msg">Quay lại</string>
+    <string name="language_welcome_exp">Chọn ngôn ngữ</string>
+    <string name="wizard_emergency">Cuộc gọi khẩn cấp</string>
+</resources>

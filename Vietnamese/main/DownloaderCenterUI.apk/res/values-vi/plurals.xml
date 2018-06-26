@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d giây</item>
+        <item quantity="one">1 giây</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">1 phút</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">1 giờ</item>
+    </plurals>
+    <plurals name="notif_summary_complete">
+        <item quantity="other">Đã tải xuống %d tập tin</item>
+        <item quantity="one">Đã tải xuống 1 tập tin</item>
+    </plurals>
+    <plurals name="notif_content_text_complete_music">
+        <item quantity="other">Đã tải xuống \"%d tập tin nhạc. Chạm để phát nhạc.\"</item>
+        <item quantity="one">Đã tải xuống 1 tập tin nhạc. Chạm để phát nhạc.</item>
+    </plurals>
+    <plurals name="notif_content_text_complete_video">
+        <item quantity="other">Đã tải xuống \"%d tập tin video. Chạm để phát video.\"</item>
+        <item quantity="one">Đã tải xuống 1 tập tin video. Chạm vào video và nhạc.</item>
+    </plurals>
+    <plurals name="notif_summary_error">
+        <item quantity="other">Tổng số %d tác vụ</item>
+        <item quantity="one">Tổng số 1 tác vụ</item>
+    </plurals>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Đang tải xuống %d tệp</item>
+        <item quantity="one">Đang tải xuống 1 tệp</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">%d tác vụ đang chờ xử lý</item>
+        <item quantity="one">Đang đợi kết nối Wi-Fi</item>
+    </plurals>
+</resources>

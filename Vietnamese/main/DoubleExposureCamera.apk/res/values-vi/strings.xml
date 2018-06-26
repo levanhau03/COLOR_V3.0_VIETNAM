@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phơi sáng kép</string>
+    <string name="mode_name">Phơi sáng kép</string>
+    <string name="capture_tip">Chụp ảnh khác</string>
+    <string name="mode_name_for_download">Phơi sáng kép</string>
+    <string name="mode_desc">Chụp hai lần và tự động xếp chồng các hình ảnh vào một ảnh.</string>
+</resources>

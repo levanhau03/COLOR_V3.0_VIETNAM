@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="clear_cache_garbage_category">
+        <item quantity="other">%d tập tin do ứng dụng tạo trong bộ nhớ đệm đã được chọn</item>
+        <item quantity="one">%d tập tin do ứng dụng tạo trong bộ nhớ đệm đã được chọn</item>
+    </plurals>
+    <plurals name="clear_advertising_garbage_category">
+        <item quantity="other">%d tập tin quảng cáo từ ứng dụng đã được chọn</item>
+        <item quantity="one">%d tập tin quảng cáo từ ứng dụng đã được chọn</item>
+    </plurals>
+    <plurals name="clear_useless_installation_package_category">
+        <item quantity="other">%d tập tin APK trên điện thoại của bạn đã được chọn</item>
+        <item quantity="one">%d tập tin APK trên điện thoại của bạn đã được chọn</item>
+    </plurals>
+    <plurals name="clear_unloading_residue_category">
+        <item quantity="other">%d tập tin tồn dư, còn lại sau khi gỡ cài đặt ứng dụng, đã được chọn</item>
+        <item quantity="one">%d tập tin tồn dư, còn lại sau khi gỡ cài đặt ứng dụng, đã được chọn</item>
+    </plurals>
+    <plurals name="clear_large_files_category">
+        <item quantity="other">%d tập tin lớn đã được chọn, hãy thận trọng khi dọn dẹp</item>
+        <item quantity="one">%d tập tin lớn đã được chọn, hãy thận trọng khi dọn dẹp</item>
+    </plurals>
+    <plurals name="clear_memory_list_title">
+        <item quantity="other">Bộ nhớ được sử dụng khi ứng dụng đang chạy, đã chọn %d mục.</item>
+        <item quantity="one">Bộ nhớ được sử dụng khi ứng dụng đang chạy, đã chọn %d mục.</item>
+    </plurals>
+    <plurals name="opt_result_auto_summary_cache_garbage">
+        <item quantity="other">Tổng số %1$.2f MB và %2$s mục</item>
+        <item quantity="one">Tổng số %1$.2f MB và %2$s mục</item>
+    </plurals>
+    <plurals name="opt_result_auto_summary_uninstall_garbage">
+        <item quantity="other">Tổng số %1$.2f MB và %2$s mục</item>
+        <item quantity="one">Tổng số %1$.2f MB và %2$s mục</item>
+    </plurals>
+    <plurals name="opt_result_auto_summary_security_protect">
+        <item quantity="other">%1$s mục nguy hiểm</item>
+        <item quantity="one">%1$s mục nguy hiểm</item>
+    </plurals>
+    <plurals name="bl_title_block_phone">
+        <item quantity="other">Gần đây đã chặn %d cuộc gọi</item>
+        <item quantity="one">Gần đây đã chặn %d cuộc gọi</item>
+    </plurals>
+    <plurals name="bl_title_block_sms">
+        <item quantity="other">Gần đây đã chặn %d tin nhắn</item>
+        <item quantity="one">Gần đây đã chặn %d tin nhắn</item>
+    </plurals>
+    <plurals name="bl_title_block_sms_append">
+        <item quantity="other">, %d tin nhắn</item>
+        <item quantity="one">, %d tin nhắn</item>
+    </plurals>
+</resources>

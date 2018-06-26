@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chế độ đơn giản</string>
+    <string name="actionbar_menu_add_title">Tăng</string>
+    <string name="weather_city_no_data">Không d.liệu</string>
+    <string name="quick_contact_ever_filled">Liên lạc này đã được thêm!</string>
+    <string name="quick_contact_dial_select_phoneno_dialog_title">Vui lòng chọn một số để gọi</string>
+    <string name="quick_contact_dial_no_phonenumber">Thiếu số điện thoại</string>
+    <string name="quick_contact_exit">Thoát</string>
+    <string name="quick_contact_do_not_exist">Liên lạc nhanh này không tồn tại!</string>
+    <string name="quick_contact_delete_dialog_title">Xóa liên lạc nhanh</string>
+    <string name="quick_contact_delete_dialog_message">Bạn có chắc muốn xóa liên lạc nhanh không?</string>
+    <string name="favorite_label_tool">Thư viện yêu thích</string>
+    <string name="favorite_label_emergencycall">Cuộc gọi khẩn cấp</string>
+    <string name="tool_choose_activity_label">Thêm vào thư viện yêu thích</string>
+    <string name="tool_info_delete_dialog_title">Xóa phím tắt ứng dụng</string>
+    <string name="tool_info_delete_dialog_message">Bạn có chắc muốn xóa phím tắt ứng dụng không?</string>
+    <string name="emergency_call_police">Gọi cảnh sát</string>
+    <string name="emergency_call_mecial">Cấp cứu</string>
+    <string name="emergency_call_fire">Cảnh báo cháy</string>
+    <string name="emergency_call_aid">Khẩn cấp</string>
+    <string name="emergency_call_add_dialog_title">Thêm số điện thoại khẩn cấp</string>
+    <string name="emergency_call_add_final_exist">Số điện thoại khẩn cấp được tích hợp đã tồn tại!</string>
+    <string name="emergency_call_add_custom_exist">Số điện thoại khẩn cấp được tùy chỉnh đã tồn tại!</string>
+    <string name="emergency_call_add_phone_no_label">số điện thoại:</string>
+    <string name="emergency_call_add_phone_description_label">Nhãn mô tả:</string>
+    <string name="emergency_call_delete_dialog_title">Xóa số điện thoại khẩn cấp</string>
+    <string name="emergency_call_delete_dialog_message">Bạn có chắc muốn xóa số điện thoại khẩn cấp không?</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Đèn flash</string>
+    <string name="exit_application_if_repress">Nhấn lại nút thoát</string>
+    <string name="unable_to_open_camera">Không thể mở dịch vụ Flash, hãy thử lại sau hoặc thoát</string>
+    <string name="open">Đèn flash đang bật</string>
+    <string name="low_battery">Pin điện thoại yếu, vui lòng tắt đèn flash</string>
+</resources>

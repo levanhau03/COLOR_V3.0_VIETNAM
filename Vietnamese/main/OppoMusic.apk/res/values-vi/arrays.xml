@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="files_filter_size_entries">
+        <item>Không hạn chế</item>
+        <item>200K</item>
+        <item>500K</item>
+        <item>800K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="files_filter_size_values">
+        <item>0</item>
+        <item>204800</item>
+        <item>512000</item>
+        <item>819200</item>
+        <item>1024000</item>
+    </string-array>
+    <string-array name="files_filter_duration_entries">
+        <item>Không giới hạn</item>
+        <item>20 giây</item>
+        <item>60 giây</item>
+        <item>90 giây</item>
+        <item>120 giây</item>
+    </string-array>
+    <string-array name="files_filter_duration_values">
+        <item>0</item>
+        <item>20000</item>
+        <item>60000</item>
+        <item>90000</item>
+        <item>120000</item>
+    </string-array>
+    <string-array name="download_entries">
+        <item>Đang tải xuống</item>
+        <item>Đã tải xuống</item>
+    </string-array>
+    <string-array name="artist_child_entries">
+        <item>Song</item>
+        <item>Album</item>
+    </string-array>
+    <string-array name="album_child_entries">
+        <item>Giới thiệu</item>
+        <item>Bài hát</item>
+    </string-array>
+    <string-array name="collect_child_entries">
+        <item>Giới thiệu</item>
+        <item>Bài hát</item>
+    </string-array>
+    <string-array name="local_songs_entries">
+        <item>Bài hát</item>
+        <item>Nghệ sỹ</item>
+        <item>Album</item>
+        <item>Thư mục</item>
+    </string-array>
+    <string-array name="mood_play_tags_string_entries">
+        <item>Sáng</item>
+        <item>Trưa</item>
+        <item>Chiều</item>
+        <item>Tối</item>
+        <item>Đêm</item>
+        <item>Buồn</item>
+        <item>Nhớ nhung</item>
+        <item>Trầm lặng</item>
+        <item>Vui vẻ</item>
+        <item>Sôi nổi</item>
+        <item>Tập thể dục</item>
+        <item>Làm việc</item>
+        <item>Trà chiều</item>
+        <item>Du lịch</item>
+        <item>Đi dạo</item>
+        <item>Cảm động</item>
+        <item>Cô đơn</item>
+        <item>Nhớ nhà</item>
+        <item>Quán bar</item>
+    </string-array>
+    <string-array name="download_order">
+        <item>Theo tên bài hát</item>
+        <item>Theo thời gian được thêm vào (mặc định)</item>
+    </string-array>
+    <string-array name="all_song_order">
+        <item>Hiển thị theo thứ tự chữ cái</item>
+        <item>Hiển thị theo thời gian thêm vào</item>
+        <item>Hiển thị theo thư mục</item>
+    </string-array>
+    <string-array name="favor_entries">
+        <item>" "</item>
+        <item>" "</item>
+    </string-array>
+    <string-array name="mv_type">
+        <item>MV</item>
+        <item>Bảng xếp hạng V</item>
+        <item>Bộ sưu tập Yuedan</item>
+    </string-array>
+    <string-array name="mv_title">
+        <item>Mô tả MV</item>
+        <item>MV có liên quan</item>
+    </string-array>
+    <string-array name="yd_title">
+        <item>Mô tả Yuedan</item>
+        <item>Bộ sưu tập Yuedan</item>
+    </string-array>
+    <string-array name="mv_download_entries">
+        <item>Đang tải xuống</item>
+        <item>Đã tải xuống</item>
+    </string-array>
+    <string-array name="mv_type_entries">
+        <item>Hot</item>
+        <item>Ra mắt</item>
+        <item>Trung Quốc đại lục</item>
+        <item>Hong Kong và Đài Loan</item>
+        <item>Hàn Quốc</item>
+        <item>Nhật Bản</item>
+        <item>Châu Âu và Hòa Kỳ</item>
+    </string-array>
+    <string-array name="vb_type_keys_entries">
+        <item>ML</item>
+        <item>HT</item>
+        <item>KR</item>
+        <item>JP</item>
+        <item>US</item>
+    </string-array>
+    <string-array name="vb_type_entries">
+        <item>Trung Quốc đại lục</item>
+        <item>Hong Kong và Đài Loan</item>
+        <item>Hàn Quốc</item>
+        <item>Nhật Bản</item>
+        <item>Châu Âu và Hòa Kỳ</item>
+    </string-array>
+    <string-array name="discovery_tabs_search_entries">
+        <item>Bài hát</item>
+        <item>Album</item>
+        <item>Nghệ sỹ</item>
+        <item>Lựa chọn</item>
+        <item>MV</item>
+    </string-array>
+    <string-array name="online_singer">
+        <item>Ca sĩ nam Trung Quốc</item>
+        <item>Ca sĩ nữ Trung Quốc</item>
+        <item>Ban nhạc Trung Quốc</item>
+        <item>Ca sĩ nam Châu Âu và Hoa Kỳ</item>
+        <item>Ca sĩ nữ Châu Âu và Hoa Kỳ</item>
+        <item>Ban nhạc Châu Âu và Hòa Kỳ</item>
+        <item>Ca sĩ nam Nhật Bản</item>
+        <item>Ca sĩ nữ Nhật Bản</item>
+        <item>Ban nhạc Nhật Bản</item>
+        <item>Ca sĩ nam Hàn Quốc</item>
+        <item>Ca sĩ nữ Hàn Quốc</item>
+        <item>Ban nhạc Hàn Quốc</item>
+    </string-array>
+    <string-array name="pref_storage_entriesvalue_with_sdcard">
+        <item>điện thoại</item>
+        <item>Thẻ SD</item>
+    </string-array>
+    <string-array name="odeno_style_tag">
+        <item>Học tập</item>
+        <item>Chạy</item>
+        <item>Công việc</item>
+        <item>Lái xe</item>
+        <item>Du lịch</item>
+        <item>Ngủ</item>
+        <item>Tụ họp</item>
+        <item>Trà chiều</item>
+    </string-array>
+    <string-array name="odeno_style">
+        <item>Học tập</item>
+        <item>Chạy</item>
+        <item>Công việc</item>
+        <item>Lái xe</item>
+        <item>Du lịch</item>
+        <item>Ngủ</item>
+        <item>Tụ họp</item>
+        <item>Trà chiều</item>
+    </string-array>
+    <string-array name="odeno_mood_tag">
+        <item>Nhớ nhung</item>
+        <item>Trầm lặng</item>
+        <item>Vui vẻ</item>
+        <item>Hàn gắn</item>
+        <item>Ấm cúng</item>
+        <item>Công bố</item>
+        <item>Truyền cảm hứng</item>
+        <item>Buồn</item>
+        <item>Ngọt ngào</item>
+        <item>Cảm động</item>
+        <item>Cô đơn</item>
+        <item>Thư giãn</item>
+    </string-array>
+    <string-array name="odeno_mood">
+        <item>Nhớ nhung</item>
+        <item>Trầm lặng</item>
+        <item>Vui vẻ</item>
+        <item>Hàn gắn</item>
+        <item>Ấm cúng</item>
+        <item>Công bố</item>
+        <item>Truyền cảm hứng</item>
+        <item>Buồn</item>
+        <item>Ngọt ngào</item>
+        <item>Cảm động</item>
+        <item>Cô đơn</item>
+        <item>Thư giãn</item>
+    </string-array>
+    <string-array name="odeno_language_tag">
+        <item>Tiếng Trung Quốc</item>
+        <item>Tiếng Hàn Quốc</item>
+        <item>Tiếng Anh</item>
+        <item>Tiếng Nhật Bản</item>
+        <item>Tiếng Quảng Đông</item>
+        <item>Tiếng Pháp</item>
+        <item>Tiếng Đức</item>
+        <item>Tiếng Tây Ban Nha</item>
+    </string-array>
+    <string-array name="odeno_language">
+        <item>Tiếng Trung Quốc</item>
+        <item>Tiếng Hàn Quốc</item>
+        <item>Tiếng Anh</item>
+        <item>Tiếng Nhật Bản</item>
+        <item>Tiếng Quảng Đông</item>
+        <item>Tiếng Pháp</item>
+        <item>Tiếng Đức</item>
+        <item>Tiếng Tây Ban Nha</item>
+    </string-array>
+    <string-array name="odeno_theme_tag">
+        <item>Hoạt hình</item>
+        <item>Bài hát dành cho trẻ</item>
+        <item>Trò chơi</item>
+        <item>Phim và TV</item>
+        <item>Cổ điển</item>
+        <item>Gốc</item>
+        <item>Sao chép lại</item>
+        <item>Giáo dục làm cha mẹ</item>
+    </string-array>
+    <string-array name="odeno_theme">
+        <item>Hoạt hình</item>
+        <item>Bài hát dành cho trẻ</item>
+        <item>Trò chơi</item>
+        <item>Phim và TV</item>
+        <item>Cổ điển</item>
+        <item>Gốc</item>
+        <item>Sao chép lại</item>
+        <item>Giáo dục làm cha mẹ</item>
+    </string-array>
+    <string-array name="local_operation_menu">
+        <item>Thêm vào phần yêu thích của tôi</item>
+        <item>Thêm vào danh sách phát</item>
+        <item>Gửi</item>
+        <item>Đặt làm nhạc chuông</item>
+        <item>Chi tiết</item>
+        <item>Xóa</item>
+    </string-array>
+    <string-array name="online_operation_menu">
+        <item>Thêm vào phần yêu thích của tôi</item>
+        <item>Tải xuống</item>
+        <item>chia sẻ</item>
+        <item>Đặt làm nhạc chuông</item>
+    </string-array>
+    <string-array name="local_more_operation_menu">
+        <item>Thêm vào danh sách phát</item>
+        <item>Gửi</item>
+        <item>Đặt làm nhạc chuông</item>
+        <item>Hẹn giờ để tắt nhạc</item>
+        <item>Xóa</item>
+    </string-array>
+    <string-array name="online_more_operation_menu">
+        <item>chia sẻ</item>
+        <item>Đặt làm nhạc chuông</item>
+        <item>Đóng sử dụng hẹn giờ</item>
+    </string-array>
+    <string-array name="collect_viewpager_title">
+        <item>Đề xuất</item>
+        <item>Mới nhất</item>
+        <item>Phổ biến nhất</item>
+    </string-array>
+    <string-array name="album_viewpager_title">
+        <item>Đề xuất</item>
+        <item>Mới nhất</item>
+        <item>Phổ biến nhất</item>
+    </string-array>
+</resources>

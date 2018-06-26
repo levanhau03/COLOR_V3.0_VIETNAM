@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toàn cảnh</string>
+    <string name="mode_name">Toàn cảnh</string>
+    <string name="panorama_rear_previewing">Giữ chắc điện thoại khi di chuyển để chụp hình.</string>
+    <string name="panorama_rear_capturing">Giữ mũi tên ở dòng trung tâm.</string>
+    <string name="panorama_front_previewing">Giữ chắc điện thoại khi xoay để chụp hình.</string>
+    <string name="panorama_front_capturing">Dừng một lúc khi khung vàng di chuyển đến cạnh</string>
+    <string name="auto_panorama_title">Tự động toàn cảnh</string>
+    <string name="mode_name_for_download">Toàn cảnh</string>
+    <string name="mode_desc">Lưu tất cả bằng cách chụp ảnh toàn cảnh siêu rộng.</string>
+</resources>

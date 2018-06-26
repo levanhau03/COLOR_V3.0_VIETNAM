@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_manage">
+        <item>Tạm dừng tất cả các tác vụ</item>
+        <item>Tiếp tục tất cả các tác vụ</item>
+    </string-array>
+</resources>

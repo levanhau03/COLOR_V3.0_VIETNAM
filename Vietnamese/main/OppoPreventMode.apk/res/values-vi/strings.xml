@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PreventMode</string>
+    <string name="name">Hạn chế cảm ứng nhầm</string>
+    <string name="title">Đã kích hoạt chế độ chống thao tác sai</string>
+    <string name="Shelter_tag">Xin không chặn trên của màn hình</string>
+    <string name="key_tag">hoặc gõ và giữ nút \"tăng âm lượng\" để thoát</string>
+    <string name="boottom_tag">Bạn có thể tắt chức năng này trong \"Cài đặt > Cử chỉ và Chuyển động\"</string>
+</resources>

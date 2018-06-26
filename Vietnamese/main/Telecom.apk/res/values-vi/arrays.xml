@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intelligent_dial">
+        <item>Quay số thông minh Pinyin</item>
+        <item>"Quay số kiểu stroke "</item>
+    </string-array>
+    <string-array name="oppo_call_notification_summary">
+        <item>Chỉ âm thanh nhắc nhở</item>
+        <item>Chỉ rung</item>
+        <item>Âm thanh nhắc nhở và rung</item>
+    </string-array>
+    <string-array name="oppo_call_dial_animation_summary">
+        <item>Mặc định</item>
+        <item>Ngăn xếp</item>
+    </string-array>
+    <string-array name="oppo_call_dial_tone_summary">
+        <item>Mặc định</item>
+        <item>Piano</item>
+        <item>Guitar</item>
+        <item>Marimba</item>
+        <item>Electronic</item>
+    </string-array>
+    <string-array name="oppo_call_display_summary">
+        <item>Ưu tiên avatar</item>
+        <item>ưu tiên thời tiết</item>
+        <item>Chỉ hiện thị avatar nhỏ</item>
+    </string-array>
+    <string-array name="oppo_call_display_summary_cmcc">
+        <item>Avatar toàn màn hình</item>
+        <item>Avatar nhỏ</item>
+    </string-array>
+    <string-array name="oppo_call_display_summary_delete_weather">
+        <item>Avatar toàn màn hình</item>
+        <item>Avatar nhỏ</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDM(chế độ tự động)</item>
+        <item>Chỉ WCDMA</item>
+        <item>Chỉ GSM</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_values">
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+</resources>

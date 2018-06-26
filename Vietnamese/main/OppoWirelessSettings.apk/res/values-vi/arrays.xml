@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Đang quét...</item>
+        <item>Đang kết nối...</item>
+        <item>Đang xác thực...</item>
+        <item>Đang lấy địa chỉ IP...</item>
+        <item>Đã kết nối</item>
+        <item>Đã tạm dừng</item>
+        <item>Đang ngắt kết nối...</item>
+        <item>Đã ngắt kết nối</item>
+        <item>Không thành công</item>
+        <item>Đã tắt</item>
+        <item>Ngắt kết nối tạm thời (khi điều kiện mạng kém)</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Đang quét...</item>
+        <item>Đang kết nối đến %1$s...</item>
+        <item>Đang xác thực với %1$s...</item>
+        <item>Đang lấy địa chỉ IP từ %1$s...</item>
+        <item>Đã kết nối với %1$s</item>
+        <item>Đã tạm dừng</item>
+        <item>Đang ngắt kết nối khỏi %1$s...</item>
+        <item>Đã ngắt kết nối</item>
+        <item>Không thành công</item>
+        <item>Đã tắt</item>
+        <item>Ngắt kết nối tạm thời (khi điều kiện mạng kém)</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Nút bấm</item>
+        <item>Mã PIN từ thiết bị ngang hàng</item>
+        <item>Mã PIN từ th.bị này</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Đã kết nối</item>
+        <item>Đã mời</item>
+        <item>Không thành công</item>
+        <item>Có sẵn</item>
+        <item>Ngoài vùng phủ sóng</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 phút</item>
+        <item>5 phút</item>
+        <item>1 giờ</item>
+        <item>Không bao giờ hết thời gian chờ</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Kém</item>
+        <item>Kém</item>
+        <item>Trung bình</item>
+        <item>Tốt</item>
+        <item>Rất tốt</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi cắm vào nguồn điện</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi cắm vào nguồn điện</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Tự động</item>
+        <item>Chỉ 5GHz</item>
+        <item>Chỉ 2.4GHz</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Không có</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Không</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Tĩnh</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Không có</item>
+        <item>Thủ công</item>
+        <item>Cài đặt tự động</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>Vị trí thô</item>
+        <item>Vị trí chính xác</item>
+        <item>GPS</item>
+        <item>Rung</item>
+        <item>Đọc danh bạ</item>
+        <item>Sửa liên lạc</item>
+        <item>Đọc nhật ký cuộc gọi</item>
+        <item>Sửa nhật ký cuộc gọi</item>
+        <item>Đọc lịch</item>
+        <item>Sửa lịch</item>
+        <item>Dò tìm Wi-Fi</item>
+        <item>Thông báo</item>
+        <item>Dò tìm mạng di động</item>
+        <item>Gọi</item>
+        <item>Đọc SMS</item>
+        <item>Viết SMS</item>
+        <item>Nhận SMS</item>
+        <item>Nhận SMS khẩn cấp</item>
+        <item>Nhận MMS</item>
+        <item>Nhận tin nhắn ĐẨY WAP</item>
+        <item>Gửi tin nhắn</item>
+        <item>Đọc SMS ICC</item>
+        <item>Viết SMS ICC</item>
+        <item>Sửa cài đặt</item>
+        <item>Vẽ lên trên</item>
+        <item>Truy cập thông báo</item>
+        <item>Camera</item>
+        <item>Ghi âm</item>
+        <item>Phát âm thanh</item>
+        <item>Đọc nội dung bảng nhớ tạm</item>
+        <item>Sửa nội dung bảng nhớ tạm</item>
+        <item>Nút media</item>
+        <item>Tập trung âm thanh</item>
+        <item>Âm lượng tổng thể</item>
+        <item>Âm lượng giọng nói</item>
+        <item>Âm lượng nhạc chuông</item>
+        <item>Âm lượng media</item>
+        <item>Âm lượng báo thức</item>
+        <item>Âm lượng thông báo</item>
+        <item>Âm lượng bluetooth</item>
+        <item>Giữ hoạt động</item>
+        <item>Giám sát vị trí</item>
+        <item>Giám sát dịch vụ định vị sử dụng nhiều pin</item>
+        <item>Truy xuất số thống kê sử dụng</item>
+        <item>Tắt tiếng hoặc bật tiếng mi-crô</item>
+        <item>Phương tiện chiếu</item>
+        <item>Kích hoạt VPN</item>
+    </string-array>
+    <string-array name="auto_turn_off_entries_list_preference">
+        <item>Sau 5 phút ở chế độ chờ</item>
+        <item>Sau 10 phút ở chế độ chờ</item>
+        <item>Tắt thủ công</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Tự chọn lại</item>
+        <item>Thủ công chọn lại</item>
+        <item>Luôn hỏi</item>
+    </string-array>
+    <string-array name="proxy_error">
+        <item>Không thể bỏ trống trường Máy chủ lưu trữ</item>
+        <item>Không thể bỏ trống trường cổng</item>
+        <item>Máy chủ lưu trữ không hợp lệ</item>
+        <item>Cổng không hợp lệ</item>
+    </string-array>
+    <string-array name="eye_protection_stats">
+        <item>Bật</item>
+        <item>Đóng</item>
+    </string-array>
+    <string-array name="eye_protection_lever">
+        <item>Tắt</item>
+        <item>Thấp</item>
+        <item>Trung bình</item>
+        <item>Cao</item>
+    </string-array>
+</resources>

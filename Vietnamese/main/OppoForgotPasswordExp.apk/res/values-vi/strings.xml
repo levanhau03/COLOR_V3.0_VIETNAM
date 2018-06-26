@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Đăng nhập vào %stài khoản của bạn</string>
+    <string name="login_username_hint">Địa chỉ email</string>
+    <string name="login_password_hint">Mật khẩu</string>
+    <string name="forgot_password_tip">Nếu bạn quên mật khẩu của tài khoản %1$s, vui lòng đăng nhập vào trang web %2$s chính thức để lấy lại</string>
+    <string name="login_checking_password">Đang kiểm tra tài khoản…</string>
+    <string name="login_invalid_input">Tên người dùng hoặc mật khẩu không hợp lệ</string>
+</resources>

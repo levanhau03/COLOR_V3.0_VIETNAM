@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="avatar_operator">
+        <item>Chụp hình</item>
+        <item>Chọn hình</item>
+        <item>Xóa những hình đã chọn</item>
+    </string-array>
+    <string-array name="security_questions_cn">
+        <item>Tên cha của bạn?</item>
+        <item>Tên mẹ của bạn?</item>
+        <item>Nơi sinh của bạn?</item>
+        <item>Tên vợ hoặc chồng bạn?</item>
+        <item>Tên trường tiểu học của bạn?</item>
+        <item>Ai là bạn thân nhất thời thơ ấu của bạn?</item>
+        <item>Ai là giáo viên tiểu học bạn thích nhất?</item>
+        <item>Ai là bạn đại học thân nhất của bạn?</item>
+        <item>Số học sinh(công tác)của bạn?</item>
+        <item>Bốn số cuối số điện thoại đầu tiên của bạn?</item>
+        <item>Số giấy phép lái xe của bạn?</item>
+    </string-array>
+    <string-array name="constellations">
+        <item>Bảo Bình</item>
+        <item>Song Ngư</item>
+        <item>Bạch Dương</item>
+        <item>Kim Ngưu</item>
+        <item>Song Tử</item>
+        <item>Cự Giải</item>
+        <item>Sư Tử</item>
+        <item>Trinh Nữ</item>
+        <item>Thiên Xứng</item>
+        <item>Bọ Cạp</item>
+        <item>Nhân Mã</item>
+        <item>Ma Kết</item>
+    </string-array>
+    <string-array name="choose_sim_dialog_list">
+        <item>THẺ SIM1</item>
+        <item>THẺ SIM2</item>
+    </string-array>
+    <string-array name="choose_photake_dialog_list">
+        <item>Chụp ảnh</item>
+        <item>Chọn ảnh</item>
+        <item>Hủy</item>
+    </string-array>
+</resources>

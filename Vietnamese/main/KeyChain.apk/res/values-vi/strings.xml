@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Móc khóa</string>
+    <string name="title_no_certs">Không thể tìm thấy bất kỳ chứng chỉ nào</string>
+    <string name="title_select_cert">Chọn chứng chỉ</string>
+    <string name="requesting_application">Ứng dụng \"%s\" yêu cầu sử dụng chứng chỉ. Chọn một chứng chỉ cho ứng dụng để sử dụng như là thông tin đăng nhập để xác thực với máy chủ bây giờ và trong tương lai.</string>
+    <string name="requesting_server">Ứng dụng đã đánh dấu máy chủ yêu cầu là \"%s\". Bạn nên chỉ định quyền để sử dụng chứng chỉ chỉ cho những ứng dụng đáng tin cậy.</string>
+    <string name="install_new_cert_message">Bạn có thể cài đặt chứng chỉ trong tập tin PKCS#12 (Tập tin trong thiết bị lưu trữ bên ngoài với phần mở rộng tập tin %1$s hoặc %2$s).</string>
+    <string name="install_new_cert_button_label">Cài đặt</string>
+    <string name="allow_button">Cho phép</string>
+    <string name="deny_button">Từ chối</string>
+</resources>

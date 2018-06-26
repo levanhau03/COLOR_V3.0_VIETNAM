@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_wizard_next_button_label">Tiếp theo</string>
+    <string name="setup_wizard_back_button_label">Quay lại</string>
+    <string name="app_name">Trợ lý Android Work</string>
+    <string name="android_for_work_title">Thiết lập thiết bị của bạn</string>
+    <string name="corp_owned_explanation">Tổ chức của bạn kiểm soát và giữ an toàn cho thiết bị của bạn.</string>
+    <string name="set_up">Thiết lập</string>
+    <string name="email_hint">Địa chỉ email</string>
+    <string name="code_hint">Mã kích hoạt</string>
+    <string name="dialog_activation_code_title">Mã kích hoạt</string>
+    <string name="dialog_activation_code_main_text">Để thiết lập tài khoản Android Work, bạn phải cài đặt ứng dụng quản trị đã được tổ chức của bạn phê duyệt. Bạn cần có mã kích hoạt để cài đặt ứng dụng này. Hãy liên hệ với bộ phận CNTT của bạn để nhận mã này.</string>
+    <string name="dialog_close">Đóng</string>
+    <string name="dialog_cancel">Hủy</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_try_again">Thử lại</string>
+    <string name="error_dialog_mdm_lookup_failed">Không thể tải thông tin của tổ chức bạn. Hãy kiểm tra kết nối Internet và thử lại.</string>
+    <string name="error_dialog_cert_hash_mismatch">Ứng dụng %1$ đã được cài đặt. Hãy xóa ứng dụng và thử lại.</string>
+    <string name="error_dialog_input_error">Mã kích hoạt và địa chỉ email của bạn không khớp. Kiểm tra lỗi đánh máy và thử lại.</string>
+    <string name="lookup_progress_text">Đang tìm ứng dụng quản lý thiết bị...</string>
+</resources>

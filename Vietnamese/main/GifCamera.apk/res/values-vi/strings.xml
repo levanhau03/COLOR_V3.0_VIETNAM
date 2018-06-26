@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GIF</string>
+    <string name="mode_name">GIF</string>
+    <string name="gif_numbers_max">20</string>
+    <string name="gif_numbers">chiếc</string>
+    <string name="mode_name_for_download">GIF</string>
+    <string name="mode_desc">Chụp một vài bức ảnh và xem ảnh động</string>
+    <string name="gif_sequence_positive">Dương tính</string>
+    <string name="gif_sequence_reverse">Đảo ngược</string>
+    <string name="gif_hint_befor_capture_text">Chạm vào phím chụp để tự động chụp trong 4 giây.</string>
+    <string name="gif_save_end_text">Đã lưu vào album</string>
+    <string name="gif_saving_text">Đang lưu...</string>
+</resources>

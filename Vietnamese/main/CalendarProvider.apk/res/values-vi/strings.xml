@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Dung lượng Lịch</string>
+    <string name="upgrade_msg">Đang nâng cấp cơ sở dữ liệu lịch</string>
+    <string name="calendar_default_name">Mặc định</string>
+    <string name="calendar_info">Thông tin lịch</string>
+    <string name="calendar_info_error">Lỗi</string>
+    <string name="calendar_info_no_calendars">Không có lịch</string>
+    <string name="calendar_info_events">Sự kiện:%1$d</string>
+    <string name="calendar_info_events_dirty">Sự kiện:%1$d, Chưa lưu:%2$d</string>
+    <string name="provider_label">Lịch</string>
+    <string name="debug_tool_delete_button">Xóa ngay bây giờ</string>
+    <string name="debug_tool_start_button">Bắt đầu</string>
+    <string name="debug_tool_message">Bạn cần thao tác theo những bước:1)Tạo một bản copy dữ liệu lịch của bạn lên thẻ nhớ, bộ nhớ USB; 2) Gửi bản copy qua email. Sau khi bản copy thành công hoặc nhà phát triển nhận được email liên quan, vui lòng xóa bản copy.</string>
+    <string name="debug_tool_email_sender_picker">Chọn chương trình để gửi tệp của bạn</string>
+    <string name="debug_tool_email_subject">Lịch Db được đính kèm</string>
+    <string name="debug_tool_email_body">Phần đính kèm là cơ sở dữ liệu lịch của tôi với tất cả các cuộc hẹn và thông tin cá nhân. Hãy cẩn trọng khi xử lý.</string>
+</resources>
